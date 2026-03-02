@@ -1,6 +1,6 @@
 baseURL = "https://shkku.github.io/"
 languageCode = "en-US"
-title = "空即是色"
+title = "Mumbling in the void"
 theme = "nostyleplease"
 enableRobotsTXT = true
 
@@ -10,7 +10,7 @@ enableRobotsTXT = true
 
 [params]
   description = "\"どこにいたって、人はつながっているのよ。\""
-  favicon = "favicon.ico"
+  favicon = "static/favicon.ico"
 
   [params.theme_config]
     appearance = "auto"
