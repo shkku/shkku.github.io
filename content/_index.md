@@ -10,4 +10,4 @@ While humans have developed frameworks and techniques to cope with reality since
 we've entered a phase in which [other intelligences are being recognized and studied](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202401034).
 
 If you're reading this, I'd be glad to hear from you. Feel free to contact me on Substack/X or by mail at kusokuzeshiki at proton dot me.
-***
+  
