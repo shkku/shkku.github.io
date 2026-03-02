@@ -10,7 +10,7 @@ enableRobotsTXT = true
 
 [params]
   description = "\"どこにいたって、人はつながっているのよ。\""
-  favicon = "static/favicon.ico"
+  favicon = "favicon.ico"
 
   [params.theme_config]
     appearance = "auto"
