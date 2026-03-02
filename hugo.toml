@@ -1,6 +1,6 @@
 baseURL = "https://shkku.github.io/"
 languageCode = "en-US"
-title = "Mumbling in the void"
+title = "mumbling in the void"
 theme = "nostyleplease"
 enableRobotsTXT = true
 
