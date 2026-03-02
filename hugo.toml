@@ -1,24 +1,24 @@
-baseURL = "https://shkku.github.io"
+baseURL = "https://shkku.github.io/"
 languageCode = "en-US"
-title = "patternMatchingPatterns"
-theme = 'nostyleplease'
+title = "空即是色"
+theme = "nostyleplease"
 enableRobotsTXT = true
-
-
-disableKinds = ["taxonomy"]
-ignoreErrors = ["error-disable-taxonomy"]
-
-[permalinks]
-  blog = "/:slug/"
-  tags = "/blog/:slug"
 
 [caches]
   [caches.images]
     dir = ":cacheDir/images"
 
 [params]
-  description = "shkku's mubling"
-  title = "空即是色"
+  description = "shkku's mumbling"
+  favicon = "favicon.ico"
+
+  [params.theme_config]
+    appearance = "auto"
+    back_home_text = ".."
+    date_format = "2006-01-02"
+    isListGroupByDate = true
+    isShowFooter = true
+    show_description = true
 
 [markup]
   [markup.highlight]

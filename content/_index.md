@@ -4,8 +4,8 @@ menu = "main"
 weight = 1
 +++
 
-# Hello, internet.
+# 空即是色.
 
-This is my lightweight Hugo blog powered by Bear Blog theme.
+////
 
-I write about things I am building, things I am learning, and mistakes worth sharing.
+

@@ -1,0 +1,19 @@
+[[entries]]
+title = "about"
+
+  [[entries.entries]]
+  title = "Personal notes on code, language, and learning."
+
+[[entries]]
+title = "recent posts"
+
+  [entries.post_list]
+  section = "blog"
+  limit = 10
+  show_more = true
+  show_more_text = "See all posts..."
+  show_more_url = "blog"
+
+[[entries]]
+title = "rss"
+url = "index.xml"
