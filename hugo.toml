@@ -9,7 +9,7 @@ enableRobotsTXT = true
     dir = ":cacheDir/images"
 
 [params]
-  description = "shkku's mumbling"
+  description = "\"どこにいたって、人はつながっているのよ。\""
   favicon = "favicon.ico"
 
   [params.theme_config]
