@@ -17,8 +17,8 @@ ignoreErrors = ["error-disable-taxonomy"]
     dir = ":cacheDir/images"
 
 [params]
-  description = "Personal notes on code, ideas, and experiments."
-  title = "Lumen's Blog"
+  description = "shkku's mubling"
+  title = "空即是色"
 
 [markup]
   [markup.highlight]
