@@ -1,6 +1,6 @@
-baseURL = "https://example.org/"
+baseURL = "https://shkku.github.io"
 languageCode = "en-US"
-title = "Lumen's Blog"
+title = "patternMatchingPatterns"
 theme = "hugo-bearblog"
 enableRobotsTXT = true
 
