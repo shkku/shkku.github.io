@@ -1,8 +1,9 @@
 baseURL = "https://shkku.github.io"
 languageCode = "en-US"
 title = "patternMatchingPatterns"
-theme = "hugo-bearblog"
+theme = 'nostyleplease'
 enableRobotsTXT = true
+
 
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
