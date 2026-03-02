@@ -8,6 +8,4 @@ title = "posts"
   show_more_text = "See all posts..."
   show_more_url = "blog"
 
-# [[entries]]
-# title = "rss"
-# url = "index.xml"
+
