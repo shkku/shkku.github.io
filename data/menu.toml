@@ -1,10 +1,4 @@
 [[entries]]
-title = "about"
-
-  [[entries.entries]]
-  title = "Personal notes on code, language, and learning."
-
-[[entries]]
 title = "recent posts"
 
   [entries.post_list]
