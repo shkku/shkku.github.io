@@ -9,9 +9,6 @@
 {{ .Content }}
 {{ partial "menu_item.html" (dict "context" . "collection" $.Site.Data.menu.entries) }}
 
-{{ $lastUpdate := .Site.Lastmod }}
-{{ if not $lastUpdate.IsZero }}
-<p>last updated: {{ $lastUpdate.Format "2006-01-02" }}</p>
-{{ end }}
+<p>last updated: {{ now.Format "2006-01-02" }}</p>
 
 {{ end }}
