@@ -8,4 +8,9 @@ title = "posts"
   show_more_text = "See all posts..."
   show_more_url = "blog"
 
+[[entries]]
+title = "of interest"
 
+  [[entries.entries]]
+  title = "Biofoundationalism: The Shape Test"
+  url = "https://thedosagemakesitso.substack.com/p/biofoundationalism-the-shape-test"

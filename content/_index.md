@@ -10,3 +10,4 @@ We've entered a phase in which our cognitive light cone as humans has enlarged a
 
 If you're reading this, I'd be glad to hear from you. Feel free to contact me on X or by mail at [kusokuzeshiki at proton dot me] anytime !
   
+
