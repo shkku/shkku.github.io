@@ -12,5 +12,8 @@ title = "posts"
 title = "of interest"
 
   [[entries.entries]]
-  title = "Biofoundationalism: The Shape Test"
+  title = "Biofoundationalism: The Shape Test - The Dosage Makes it so"
   url = "https://thedosagemakesitso.substack.com/p/biofoundationalism-the-shape-test"
+  [[entries.entries]]
+  title = "A Techno-pessimist Manifesto - Curtis Yarvin"
+  url = "https://graymirror.substack.com/p/a-techno-pessimist-manifesto"
