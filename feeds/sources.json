@@ -1,7 +1,7 @@
 [
   {
     "id": "apollo-science",
-    "title": "Apollo Research — Science (unofficial)",
+    "title": "Apollo Research papers feed",
     "description": "Unofficial feed of Apollo Research's All research listing, including the research agenda. Separate system-card panels and the general blog are excluded. Titles, dates and links belong to Apollo Research.",
     "source_url": "https://www.apolloresearch.ai/science",
     "date_format": "%d %B %Y",

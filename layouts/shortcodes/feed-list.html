@@ -1,6 +1,5 @@
 {{ range site.Data.feeds }}
 <h2>{{ .title }}</h2>
-<p>{{ .description }}</p>
 <p><a href="{{ .url | relURL }}">Subscribe (RSS XML)</a> · <a href="{{ .source_url }}">Original site</a> · {{ .items }} entries</p>
 <p><small>
   {{ if eq .status "stale" }}Refresh failed; serving the previous feed.
