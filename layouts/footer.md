@@ -1,3 +1,3 @@
 ***
 
-[RSS](index.xml) —— [mail](mailto:kusokuzeshiki@proton.me) —— [about]()
+[RSS](/blog/index.xml) —— [mail](mailto:kusokuzeshiki@proton.me) —— [about]()
