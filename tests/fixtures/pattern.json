@@ -1,0 +1,47 @@
+{
+  "articles_page1": {
+    "data": [
+      {
+        "id": 401,
+        "title": "「AI时代复杂组织架构」读书会推荐阅读清单",
+        "created_at": "2026-10-20 10:54:27"
+      },
+      {
+        "id": 398,
+        "title": "「计算人口学」读书会推荐阅读清单",
+        "created_at": "2026-10-06 15:26:21"
+      }
+    ],
+    "meta": {
+      "current_page": 1,
+      "last_page": 2,
+      "total": 3
+    }
+  },
+  "articles_page2": {
+    "data": [
+      {
+        "id": 397,
+        "title": "「 AI for Math 」读书会推荐阅读清单",
+        "created_at": "2026-09-12 12:27:41"
+      }
+    ],
+    "meta": {
+      "current_page": 2,
+      "last_page": 2,
+      "total": 3
+    }
+  },
+  "papers": [
+    {
+      "uuid": "f040b42f-4428-5574-ad34-3a00c3a4ac80",
+      "title": "Tipping points in complex ecological systems",
+      "submitTime": "2026-10-19"
+    },
+    {
+      "uuid": "3260241f-aaab-5061-9527-315f216bead4",
+      "title": "A repeating sequence of simple rules creates a universal computer",
+      "submitTime": "2026-10-21"
+    }
+  ]
+}

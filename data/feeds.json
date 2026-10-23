@@ -5,9 +5,20 @@
     "source_url": "https://www.apolloresearch.ai/science",
     "description": "Unofficial feed of Apollo Research's All research listing, including the research agenda. Separate system-card panels and the general blog are excluded. Titles, dates and links belong to Apollo Research.",
     "url": "/feeds/apollo-science.xml",
-    "last_checked": "2026-10-23T10:42:44+00:00",
+    "last_checked": "2026-10-23T10:59:49+00:00",
     "status": "ok",
-    "last_successful": "2026-10-23T10:42:44+00:00",
+    "last_successful": "2026-10-23T10:59:49+00:00",
     "items": 26
+  },
+  {
+    "id": "pattern-swarma",
+    "title": "Pattern articles and papers feed",
+    "source_url": "https://pattern.swarma.org/",
+    "description": "Unofficial feed of articles and curated Complexity and AI+Science papers from Swarma Pattern (集智斑图). Paper refreshes cover a rolling 90-day publication window; previously collected entries are retained. Links lead to original Pattern pages.",
+    "url": "/feeds/pattern-swarma.xml",
+    "last_checked": "2026-10-23T10:59:50+00:00",
+    "status": "ok",
+    "last_successful": "2026-10-23T10:59:50+00:00",
+    "items": 426
   }
 ]

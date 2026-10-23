@@ -1,0 +1,3202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Pattern articles and papers feed</title>
+    <link>https://pattern.swarma.org/</link>
+    <description>Unofficial feed of articles and curated Complexity and AI+Science papers from Swarma Pattern (集智斑图). Paper refreshes cover a rolling 90-day publication window; previously collected entries are retained. Links lead to original Pattern pages.</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 23 Oct 2026 10:59:50 GMT</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    <ttl>360</ttl>
+    <generator>HomemadeRSS</generator>
+    <atom:link href="https://shkku.github.io/feeds/pattern-swarma.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A continuous confinement-deconfinement transition in a triangular quantum magnet</title>
+      <link>https://pattern.swarma.org/paper/6e0c1462-c407-5aa7-9474-c91718bc6639</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/6e0c1462-c407-5aa7-9474-c91718bc6639</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>A repeating sequence of simple rules creates a universal computer</title>
+      <link>https://pattern.swarma.org/paper/3260241f-aaab-5061-9527-315f216bead4</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/3260241f-aaab-5061-9527-315f216bead4</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Stable coexistence and transport of lytic phage infections with migrating bacterial hosts</title>
+      <link>https://pattern.swarma.org/paper/0a474c10-9649-513b-89a6-6be99cc013e9</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/0a474c10-9649-513b-89a6-6be99cc013e9</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>「AI时代复杂组织架构」读书会推荐阅读清单</title>
+      <link>https://pattern.swarma.org/article/401</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/401</guid>
+      <pubDate>Tue, 20 Oct 2026 02:54:27 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>Chaotic Griffiths phase in neuron map networks</title>
+      <link>https://pattern.swarma.org/paper/87371e63-1e2b-5601-9f2a-1bba0007f89f</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/87371e63-1e2b-5601-9f2a-1bba0007f89f</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Systemic Risk in a Multilayer Financial Network: A Criticality-Based Perspective</title>
+      <link>https://pattern.swarma.org/paper/f57d98ec-4fcc-54e7-b1ff-4e4eaacda3f8</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/f57d98ec-4fcc-54e7-b1ff-4e4eaacda3f8</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Tipping points in complex ecological systems</title>
+      <link>https://pattern.swarma.org/paper/f040b42f-4428-5574-ad34-3a00c3a4ac80</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/f040b42f-4428-5574-ad34-3a00c3a4ac80</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Synchronization induced by stochastic subsystem resetting in complex networks</title>
+      <link>https://pattern.swarma.org/paper/59bbf749-a2cc-5984-b45f-8287437a187a</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/59bbf749-a2cc-5984-b45f-8287437a187a</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>SOCIAL PHYSICS: A MANIFESTO</title>
+      <link>https://pattern.swarma.org/paper/6f25bfcd-1b59-54c3-9211-9f71c6df3975</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/6f25bfcd-1b59-54c3-9211-9f71c6df3975</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Death and chemotaxis: Bacterial chemotaxis enables collective escape from phage predation</title>
+      <link>https://pattern.swarma.org/paper/ba1636f0-103e-5bf0-b04e-86cb2d1e38e9</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/ba1636f0-103e-5bf0-b04e-86cb2d1e38e9</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Raphe nuclei in cognition: A network-level framework for behavioral-state control</title>
+      <link>https://pattern.swarma.org/paper/a0dba83d-8dcd-5ef7-a35a-17ee5a300453</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/a0dba83d-8dcd-5ef7-a35a-17ee5a300453</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Latent Effector Capacity Governs Reversible T Cell Exhaustion: A Mathematical Model for Mechanistically Predictive AI in PD-1 Blockade</title>
+      <link>https://pattern.swarma.org/paper/885e1cdf-e415-5ba4-a130-1ed67a95a458</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/885e1cdf-e415-5ba4-a130-1ed67a95a458</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Kinetic-driven microphase separation and vitrification of crowded hydrogels with associative bonds</title>
+      <link>https://pattern.swarma.org/paper/52e4d263-f069-5b6f-a993-022ffe388a8b</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/52e4d263-f069-5b6f-a993-022ffe388a8b</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Resilience Phase Transitions in Networks with Heterogeneous Node Growth Rules</title>
+      <link>https://pattern.swarma.org/paper/e0070d2b-2dcb-5e37-b92c-62dec014d6d0</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/e0070d2b-2dcb-5e37-b92c-62dec014d6d0</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Reversible Atlantic overturning despite continued Greenland Ice Sheet melt</title>
+      <link>https://pattern.swarma.org/paper/6cabb2ab-00dc-53b7-8dfb-623e72afaf67</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/6cabb2ab-00dc-53b7-8dfb-623e72afaf67</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Educational intervention can rewire village social networks</title>
+      <link>https://pattern.swarma.org/paper/364d44ff-0bc8-59d1-b3c7-15254991224a</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/364d44ff-0bc8-59d1-b3c7-15254991224a</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Nanothermodynamics: Stable Thermal Equilibrium and Nanoscale Fluctuations</title>
+      <link>https://pattern.swarma.org/paper/126f8e64-1edf-5993-aaba-16f23d583332</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/126f8e64-1edf-5993-aaba-16f23d583332</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Wave coarsening drives time crystallization in active solids</title>
+      <link>https://pattern.swarma.org/paper/0669fa3f-68cc-5257-8abe-d863c533254c</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/0669fa3f-68cc-5257-8abe-d863c533254c</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>The Network Structure of the Urban Revolution</title>
+      <link>https://pattern.swarma.org/paper/056a28e5-8b14-5920-bc12-f9620ffd657c</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/056a28e5-8b14-5920-bc12-f9620ffd657c</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Traffic-State-Dependent Cascading-Failure Dynamics in Urban Bus Networks: An Improved Coupled Map Lattice Framework</title>
+      <link>https://pattern.swarma.org/paper/9e4bb3d6-6087-5b72-b070-e3561e1863ab</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/9e4bb3d6-6087-5b72-b070-e3561e1863ab</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Mixed-state phases from local reversibility</title>
+      <link>https://pattern.swarma.org/paper/82b6852c-0054-5685-8dbc-463128ad4ac8</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/82b6852c-0054-5685-8dbc-463128ad4ac8</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Morphogenesis of a stratified cell mound at a vortex defect</title>
+      <link>https://pattern.swarma.org/paper/ed58c5fe-dc40-526c-971d-5590947f9850</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/ed58c5fe-dc40-526c-971d-5590947f9850</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Less can be more for predicting properties with large language models</title>
+      <link>https://pattern.swarma.org/paper/9fcbd64b-8485-553f-a0ff-2cdad3d68a88</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/9fcbd64b-8485-553f-a0ff-2cdad3d68a88</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>A Nonlinear Three-Mode Model of Solar Activity Based on Coupled Oscillators and Nonlinear Energy Transfer</title>
+      <link>https://pattern.swarma.org/paper/8639ba6a-b68b-5da9-8cad-2dfa833f3773</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/8639ba6a-b68b-5da9-8cad-2dfa833f3773</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Stochastic Dynamics of Sensitive and Resistant Bacteria Under Capacity-Limited Antibiotic Treatment</title>
+      <link>https://pattern.swarma.org/paper/e604988c-616a-5e6e-9437-8c339824e312</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/e604988c-616a-5e6e-9437-8c339824e312</guid>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>A Tale of Two Principles—Towards a Relational Perspective on the Free Energy Principle</title>
+      <link>https://pattern.swarma.org/paper/df28c4e2-a1ef-518d-9202-acf2d7fc168c</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/df28c4e2-a1ef-518d-9202-acf2d7fc168c</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Distinct Modes of Quantum Information Transfer in Power-Law Long-Range Spin Networks</title>
+      <link>https://pattern.swarma.org/paper/0b2da2ec-b036-5c60-a117-0508719c0c19</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/0b2da2ec-b036-5c60-a117-0508719c0c19</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Order from chaos with adaptive circuits on quantum hardware</title>
+      <link>https://pattern.swarma.org/paper/a4bd54c7-7860-5dcc-bfd3-d3beab7ac53e</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/a4bd54c7-7860-5dcc-bfd3-d3beab7ac53e</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>How Biological Synapses Self-Assemble Gradient Learning</title>
+      <link>https://pattern.swarma.org/paper/945b96c0-d274-5a6d-9410-e5a6d9f69562</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/945b96c0-d274-5a6d-9410-e5a6d9f69562</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Fluidic hysterons and memory in flow networks</title>
+      <link>https://pattern.swarma.org/paper/9408247f-7d86-5145-bb69-ff17ac5c2e43</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/9408247f-7d86-5145-bb69-ff17ac5c2e43</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Intensification of East Asian summer extreme precipitation under a net-zero anthropogenic CO2 emission scenario</title>
+      <link>https://pattern.swarma.org/paper/913f2451-5395-5576-97bc-7d635f70801f</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/913f2451-5395-5576-97bc-7d635f70801f</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Mesoscale structures in signed networks</title>
+      <link>https://pattern.swarma.org/paper/875369b1-0f05-58be-aa45-bf9c35a962e0</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/875369b1-0f05-58be-aa45-bf9c35a962e0</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Frontostriatal dynamics of cognitive control</title>
+      <link>https://pattern.swarma.org/paper/5718c9ac-58d8-51f0-a30f-ad17ce316cb7</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/5718c9ac-58d8-51f0-a30f-ad17ce316cb7</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Contagion-preserving compression for multiscale epidemic modeling</title>
+      <link>https://pattern.swarma.org/paper/4c4b7705-ac5d-5c0e-87a3-768eb24ba89b</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/4c4b7705-ac5d-5c0e-87a3-768eb24ba89b</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Cycles upon cycles - Temperature Scaling of Medaka Development</title>
+      <link>https://pattern.swarma.org/paper/f77dae8a-452d-5238-90c7-9d5eb10e6062</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/f77dae8a-452d-5238-90c7-9d5eb10e6062</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Theory of Out-of-Time-Ordered Transport</title>
+      <link>https://pattern.swarma.org/paper/cbdbf571-7e5a-507f-b2c3-c60c0243dd32</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/cbdbf571-7e5a-507f-b2c3-c60c0243dd32</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Spatiotemporal noise stabilizes unbounded diversity in strongly-competitive communities</title>
+      <link>https://pattern.swarma.org/paper/c41da9bf-8bda-5d06-b649-fb3c8768fa9a</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/c41da9bf-8bda-5d06-b649-fb3c8768fa9a</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>EFFICIENT AND ROBUST CONTROL WITH SPIKES THAT CONSTRAIN FREE ENERGY</title>
+      <link>https://pattern.swarma.org/paper/ac73dca6-da65-530a-9610-9a8cc4b1ceb7</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/ac73dca6-da65-530a-9610-9a8cc4b1ceb7</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Contrasting plant trait strategies underpin ecosystem stability in temperate and alpine grasslands</title>
+      <link>https://pattern.swarma.org/paper/3e197885-0d8b-53ca-a558-7a593ed2e00b</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/3e197885-0d8b-53ca-a558-7a593ed2e00b</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Life Finds a Way: Emergence of Cooperative Structures in Adaptive Threshold Networks</title>
+      <link>https://pattern.swarma.org/paper/acd61d3e-518d-500a-88cf-1d0974829268</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/acd61d3e-518d-500a-88cf-1d0974829268</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Cell jamming transition is regulated by mitochondrial pyruvate transport and endocytosis</title>
+      <link>https://pattern.swarma.org/paper/8717e47b-e9a1-5665-9c6c-2c0845903596</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/8717e47b-e9a1-5665-9c6c-2c0845903596</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Exposure route, not dose, is the primary driver of infection patterns for a respiratory virus</title>
+      <link>https://pattern.swarma.org/paper/79a91771-3043-52bd-bac6-af9bbc049515</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/79a91771-3043-52bd-bac6-af9bbc049515</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Predicting regional gray swans via translocation: AI weather models and Dubai's unprecedented 2024 rainfall</title>
+      <link>https://pattern.swarma.org/paper/76612215-c386-5716-9edd-366bc88361be</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/76612215-c386-5716-9edd-366bc88361be</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>A split attractor design for rapidly writing a navigational goal</title>
+      <link>https://pattern.swarma.org/paper/4468be3d-a035-5dcd-8050-e6ee0445ac0c</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/4468be3d-a035-5dcd-8050-e6ee0445ac0c</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Neutralization titers reveal the structure of polyclonal antibody responses</title>
+      <link>https://pattern.swarma.org/paper/26806637-0a69-5d70-a42e-953859f0c061</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/26806637-0a69-5d70-a42e-953859f0c061</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Density-dependent aggregation underlies spatial self-organization in coastal dunes</title>
+      <link>https://pattern.swarma.org/paper/155ee10c-cead-54f5-a47f-2e505a743fc9</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/155ee10c-cead-54f5-a47f-2e505a743fc9</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>From "More Is Different" to Algorithmic Emergence: Regularity, Compression, and the Limits of Discovery</title>
+      <link>https://pattern.swarma.org/paper/06e4b967-4ade-55a4-8379-eb8bedbf3ca8</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/06e4b967-4ade-55a4-8379-eb8bedbf3ca8</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>「计算人口学」读书会推荐阅读清单</title>
+      <link>https://pattern.swarma.org/article/398</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/398</guid>
+      <pubDate>Tue, 06 Oct 2026 07:26:21 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>Thermodynamic description of wealth inequality in the world</title>
+      <link>https://pattern.swarma.org/paper/db368fcb-b3db-5d8c-9819-c4ab97e31f68</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/db368fcb-b3db-5d8c-9819-c4ab97e31f68</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Beyond Shannon Entropy in Schelling Segregation: Shape-Weighted Diagnostics of Bimodality, Polarization, and Economic Freezing</title>
+      <link>https://pattern.swarma.org/paper/54b7af7d-671e-5679-b0e6-efb1fd324ce5</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/54b7af7d-671e-5679-b0e6-efb1fd324ce5</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Selective sparsity-enhanced synchronization in disordered semiconductor laser networks</title>
+      <link>https://pattern.swarma.org/paper/3e4949a7-b4ef-5367-ac21-54e2587e5fb1</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/3e4949a7-b4ef-5367-ac21-54e2587e5fb1</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Segregation and cooperation in active colloidal binary mixtures</title>
+      <link>https://pattern.swarma.org/paper/22bf46fc-c89a-52c1-9c9f-8854fdd4181f</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/22bf46fc-c89a-52c1-9c9f-8854fdd4181f</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>From cacophony to hierarchy: a principled framework for assessing AI consciousness</title>
+      <link>https://pattern.swarma.org/paper/fed0f2cb-3c95-5d53-8640-3452b7b9c37f</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/fed0f2cb-3c95-5d53-8640-3452b7b9c37f</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Formation of a swelling gel underlies a morphological transition in Bacillus subtilis biofilms</title>
+      <link>https://pattern.swarma.org/paper/b907d1ef-2e01-5191-bad8-7527020d9e14</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/b907d1ef-2e01-5191-bad8-7527020d9e14</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Information Thermodynamics of Agents: The Work Capacity of Channels with Memory</title>
+      <link>https://pattern.swarma.org/paper/b47fac08-a2ec-598e-9452-6ce4b98b1fcf</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/b47fac08-a2ec-598e-9452-6ce4b98b1fcf</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>The More You Automate, the Less You See: Hidden Pitfalls of AI Scientist Systems</title>
+      <link>https://pattern.swarma.org/paper/83b7d2dd-3870-5407-8f0f-5d2b5d042fad</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/83b7d2dd-3870-5407-8f0f-5d2b5d042fad</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Patience is a virtue: How nature achieves group navigation with minimal cooperativity</title>
+      <link>https://pattern.swarma.org/paper/05d84825-627f-5186-905d-e5df9986e7ae</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/05d84825-627f-5186-905d-e5df9986e7ae</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Topological Mixed States: Phases of Matter from Axiomatic Approaches</title>
+      <link>https://pattern.swarma.org/paper/e5104780-4c33-5f1c-b3c6-22c68d229c3e</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/e5104780-4c33-5f1c-b3c6-22c68d229c3e</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Synapse-like Specializations at Dopamine Release Sites Orchestrate Efficient and Precise Neuromodulatory Signaling</title>
+      <link>https://pattern.swarma.org/paper/e41e71b6-292c-5d6a-9605-c116dbfc8f37</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/e41e71b6-292c-5d6a-9605-c116dbfc8f37</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Fractals, Wealth Distributions, and Non-Euclidean Geometry: Quadrant Lorenz Curves</title>
+      <link>https://pattern.swarma.org/paper/e386927b-fcbe-50c9-9270-c64d7bc27cab</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/e386927b-fcbe-50c9-9270-c64d7bc27cab</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>On Growth and Form, and Function: Reusable Regulatory Handles Control Phenotypic Variation</title>
+      <link>https://pattern.swarma.org/paper/b3c89f57-0e10-5778-9558-aea812db6383</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/b3c89f57-0e10-5778-9558-aea812db6383</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Nature is stingy: Universality of Scrooge ensembles in quantum many-body systems</title>
+      <link>https://pattern.swarma.org/paper/5775feb9-dce6-515c-98b2-cecbaecee420</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/5775feb9-dce6-515c-98b2-cecbaecee420</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Entanglement-Induced Resilience of Quantum Dynamics</title>
+      <link>https://pattern.swarma.org/paper/325f4539-94ca-52ac-bd00-35cdfbddb45b</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/325f4539-94ca-52ac-bd00-35cdfbddb45b</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Survival probability of random networks</title>
+      <link>https://pattern.swarma.org/paper/9c7f97ba-ed09-55d4-a881-1f55d3972f20</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/9c7f97ba-ed09-55d4-a881-1f55d3972f20</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>The Noise-Perturbed Onset of Chaos as a Model for Dissolution of Congested Vehicle Traffic</title>
+      <link>https://pattern.swarma.org/paper/645d5283-9583-5b45-a1d3-d4eceee7b94c</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/645d5283-9583-5b45-a1d3-d4eceee7b94c</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Modulatability of complex oscillators</title>
+      <link>https://pattern.swarma.org/paper/38cd6876-6248-5229-bfa6-f56245ce7806</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/38cd6876-6248-5229-bfa6-f56245ce7806</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Stability in flexibility: Shifting alliances stabilize the symbioses of marine animals over 150 million years</title>
+      <link>https://pattern.swarma.org/paper/fb3ced44-545d-5421-89bf-d8382b15e617</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/fb3ced44-545d-5421-89bf-d8382b15e617</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Self-organized hummock-hollow patterns redistribute salinity stress in coastal meadows</title>
+      <link>https://pattern.swarma.org/paper/d3ca566e-176b-5e72-be1b-0a02a7898cf4</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/d3ca566e-176b-5e72-be1b-0a02a7898cf4</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Social tinkering: The social foundations of cultural complexity</title>
+      <link>https://pattern.swarma.org/paper/803911f1-92a1-5ae7-8108-a6f36d7763e8</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/803911f1-92a1-5ae7-8108-a6f36d7763e8</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Stochastic cloud fluctuations drive Arctic winter radiative bistability</title>
+      <link>https://pattern.swarma.org/paper/7902c169-2d5e-5578-b312-15b09eb6ef5b</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/7902c169-2d5e-5578-b312-15b09eb6ef5b</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Condorcet Cycles, Contextuality, and the Emergence of Quantum-like Collective States</title>
+      <link>https://pattern.swarma.org/paper/78cace4c-151b-5f58-a264-80c8dcc04323</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/78cace4c-151b-5f58-a264-80c8dcc04323</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Spreading Dynamics from Social-Network Models to Complex Agricultural Systems: A Mini-Review</title>
+      <link>https://pattern.swarma.org/paper/75ea2ac8-e5d2-5593-8d51-71ca68a19edf</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/75ea2ac8-e5d2-5593-8d51-71ca68a19edf</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Fully developed active turbulence defined through a non-equilibrium phase transition</title>
+      <link>https://pattern.swarma.org/paper/52116cb6-6964-5b45-ab36-a30d3d2e5431</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/52116cb6-6964-5b45-ab36-a30d3d2e5431</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Programmable DNA protonuclei reveal environmental context on protein phase separation</title>
+      <link>https://pattern.swarma.org/paper/3f29169a-1097-5b6e-a20f-1a027a618aa5</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/3f29169a-1097-5b6e-a20f-1a027a618aa5</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>A Coherence-Dissipation Framework for Brain Dynamics and Consciousness</title>
+      <link>https://pattern.swarma.org/paper/2b8d6500-421f-5007-a917-882bd54b96de</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/2b8d6500-421f-5007-a917-882bd54b96de</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Associative synaptic plasticity creates dynamic persistent activity</title>
+      <link>https://pattern.swarma.org/paper/3d433564-1421-5922-8cb0-7c4c7411e068</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/3d433564-1421-5922-8cb0-7c4c7411e068</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Task-structured Modularity Emerges in Artificial Networks and Aligns with Brain Architecture</title>
+      <link>https://pattern.swarma.org/paper/529aecee-2e49-5757-963e-b3f6bf7925c7</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/529aecee-2e49-5757-963e-b3f6bf7925c7</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Singular basins in multiscale systems: tunneling between stable states</title>
+      <link>https://pattern.swarma.org/paper/4bc1e0d4-c2f7-5cd5-b5f6-678c45bc66ea</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/4bc1e0d4-c2f7-5cd5-b5f6-678c45bc66ea</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Brain-like learning with exponentiated gradients</title>
+      <link>https://pattern.swarma.org/paper/010de195-5b7e-5211-8d5a-6d9bb263acc5</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/010de195-5b7e-5211-8d5a-6d9bb263acc5</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Empirical 5/3 Spectral Scaling in Contextual Representations of Language</title>
+      <link>https://pattern.swarma.org/paper/c4865e62-32da-5b53-9116-2ad5c7e316fc</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/c4865e62-32da-5b53-9116-2ad5c7e316fc</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Why Homochirality in Biology? Coherent Water as a Morphogenetic Dynamic Mold Down to the Molecular Level: A QED Perspective</title>
+      <link>https://pattern.swarma.org/paper/2b7c7142-95f3-521e-9d50-8464a9e3d946</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/2b7c7142-95f3-521e-9d50-8464a9e3d946</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Emergent charge crystallization and frustration in a particle anti-spin Ice</title>
+      <link>https://pattern.swarma.org/paper/31f6593d-4b69-5d2f-b555-58eaa862dc1f</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/31f6593d-4b69-5d2f-b555-58eaa862dc1f</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Universal scaling laws for correlated decay of many-body quantum systems</title>
+      <link>https://pattern.swarma.org/paper/e1e2611d-1b69-5ac6-bda3-d90146e404b1</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/e1e2611d-1b69-5ac6-bda3-d90146e404b1</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Population coding under the scale invariance of high-dimensional noise</title>
+      <link>https://pattern.swarma.org/paper/5e1e232c-41a7-5a6b-8a1b-9e35413b2791</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/5e1e232c-41a7-5a6b-8a1b-9e35413b2791</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Emergent memory in cell-like active systems</title>
+      <link>https://pattern.swarma.org/paper/48219206-f445-559e-80e6-5fa4fe1655cb</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/48219206-f445-559e-80e6-5fa4fe1655cb</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Magnetic graphs for cavity quantum electrodynamics</title>
+      <link>https://pattern.swarma.org/paper/2e1b679b-4426-55cf-aef2-26a2f06f482f</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/2e1b679b-4426-55cf-aef2-26a2f06f482f</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Climate-driven host ecology as a framework for zoonotic disease risk: Understanding transferability across arenavirus systems</title>
+      <link>https://pattern.swarma.org/paper/1bf50c7e-2ddb-56ee-8671-d0e25cb7d001</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/1bf50c7e-2ddb-56ee-8671-d0e25cb7d001</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Bio-inspired decision making in robot swarms under biases</title>
+      <link>https://pattern.swarma.org/paper/1edb9721-486e-57eb-b071-bc0f4a2cd7ce</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/1edb9721-486e-57eb-b071-bc0f4a2cd7ce</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Quantum many-body mixed phase space revealedbyhybridfeedbackcontrol</title>
+      <link>https://pattern.swarma.org/paper/f17423a4-c50e-5795-8f98-960d95b84365</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/f17423a4-c50e-5795-8f98-960d95b84365</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Network topology creates independent control of multiple checkpoints in the cell cycle system</title>
+      <link>https://pattern.swarma.org/paper/ece01b8b-edc0-5cc0-a1f0-1fa7658251a7</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/ece01b8b-edc0-5cc0-a1f0-1fa7658251a7</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Compound food failure on a deteriorated mast system drives Japan's bear conflict crisis</title>
+      <link>https://pattern.swarma.org/paper/d5106a62-6052-5c1b-8c80-c2f53e23bc36</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/d5106a62-6052-5c1b-8c80-c2f53e23bc36</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Neuronal detection of social actions directs collective escape behaviour</title>
+      <link>https://pattern.swarma.org/paper/ccddfc20-01b3-56c7-a995-422b73bbf535</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/ccddfc20-01b3-56c7-a995-422b73bbf535</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>An eastward-propagating coupled mode amplifying the early growth of extreme EI Niño events</title>
+      <link>https://pattern.swarma.org/paper/7867e133-0f3e-54c4-b5e2-0f6f58420654</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/7867e133-0f3e-54c4-b5e2-0f6f58420654</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Chaotic many-body quantum dynamics, spectral correlations, and energy diffusion</title>
+      <link>https://pattern.swarma.org/paper/2258a714-a937-5478-b5c2-baa08ee7f8a1</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/2258a714-a937-5478-b5c2-baa08ee7f8a1</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>The anthropogenic fingerprint on emerging infectious diseases</title>
+      <link>https://pattern.swarma.org/paper/13616d50-1bf5-5908-b3ec-412fe3348a36</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/13616d50-1bf5-5908-b3ec-412fe3348a36</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Messaging strategies and the emergence of echo chambers in collective decision-making</title>
+      <link>https://pattern.swarma.org/paper/e9425a2e-ef20-5777-b694-c37be2b86404</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/e9425a2e-ef20-5777-b694-c37be2b86404</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Unveiling healthcare-access inequality in Ghana using a multiscale approach.</title>
+      <link>https://pattern.swarma.org/paper/80405ba0-812d-5d26-aa41-a80015183ae3</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/80405ba0-812d-5d26-aa41-a80015183ae3</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Nonlinear distributed sensing of light patterns leads to perceptual distortions in plants</title>
+      <link>https://pattern.swarma.org/paper/653ce773-5d37-5cb5-bebe-7ce82909e3c9</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/653ce773-5d37-5cb5-bebe-7ce82909e3c9</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>A scalable estimator of higher-order information in complex dynamical systems</title>
+      <link>https://pattern.swarma.org/paper/e9310c9b-3675-5df6-9420-e9c6791f92cb</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/e9310c9b-3675-5df6-9420-e9c6791f92cb</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Entropic Phenomena in Spin-Ice Materials and Magnetic Monopole Excitations</title>
+      <link>https://pattern.swarma.org/paper/6a8157b8-f001-5716-827e-8def87feb143</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/6a8157b8-f001-5716-827e-8def87feb143</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Hierarchical repeating earthquakes with strong downward directivity</title>
+      <link>https://pattern.swarma.org/paper/61f17eab-db8d-59dc-99b0-982d0f1297b4</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/61f17eab-db8d-59dc-99b0-982d0f1297b4</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Unidirectional flow from continuous broken symmetries</title>
+      <link>https://pattern.swarma.org/paper/30aa23aa-0a0b-5ba4-82ab-c0783fff8986</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/30aa23aa-0a0b-5ba4-82ab-c0783fff8986</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Cycle holonomy captures higher-order compatibility constraints in remote synchronization</title>
+      <link>https://pattern.swarma.org/paper/19ac0a40-977b-5d6d-b738-be66f7407dfc</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/19ac0a40-977b-5d6d-b738-be66f7407dfc</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Thalamic modulation of cortical linearity across arousal states</title>
+      <link>https://pattern.swarma.org/paper/199240b7-58eb-5596-bbf4-331939fdd9e8</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/199240b7-58eb-5596-bbf4-331939fdd9e8</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>A World Model of the Virtual Cell</title>
+      <link>https://pattern.swarma.org/paper/312865f4-6ef7-591c-9503-16e23e63cbfb</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/312865f4-6ef7-591c-9503-16e23e63cbfb</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Will there be a warning for the next pandemic?</title>
+      <link>https://pattern.swarma.org/paper/fec709e9-e5c5-5319-90f9-69b047d73b45</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/fec709e9-e5c5-5319-90f9-69b047d73b45</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Inflection points and transitions in Alzheimer's disease</title>
+      <link>https://pattern.swarma.org/paper/8241c307-82c6-57b6-a3f4-2cd579ace6d0</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/8241c307-82c6-57b6-a3f4-2cd579ace6d0</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Exact nematic and mixed magnetic phases driven by competing orders on the pyrochlore lattice</title>
+      <link>https://pattern.swarma.org/paper/6b8caded-f2d5-5577-aa8b-ce212b73cb05</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/6b8caded-f2d5-5577-aa8b-ce212b73cb05</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Molecular-level observation of the self-assembly of a virus-like particle</title>
+      <link>https://pattern.swarma.org/paper/251b5dc7-bd70-590f-bf29-e7f53deada8e</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/251b5dc7-bd70-590f-bf29-e7f53deada8e</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>A thermodynamically favoured molecular computer</title>
+      <link>https://pattern.swarma.org/paper/0ddc11c8-9e7c-5879-87c6-174a42f7b794</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/0ddc11c8-9e7c-5879-87c6-174a42f7b794</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Leveraging design for collective phototaxis in morphological swarm robotics</title>
+      <link>https://pattern.swarma.org/paper/0261cfc7-0e8e-51ae-9ed6-7237b3597b7a</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/0261cfc7-0e8e-51ae-9ed6-7237b3597b7a</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>An eco-evolutionary theory of host-associated microbiomes</title>
+      <link>https://pattern.swarma.org/paper/a4976d8a-9d92-5aea-88d0-18e28f721aa0</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/a4976d8a-9d92-5aea-88d0-18e28f721aa0</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Decoupling food insecurity from shocks: A global analysis of food system resilience</title>
+      <link>https://pattern.swarma.org/paper/a44038bc-85b1-53a8-840a-a4ada135f5f2</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/a44038bc-85b1-53a8-840a-a4ada135f5f2</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Active Wave Turbulence in Hexatic Phase</title>
+      <link>https://pattern.swarma.org/paper/174435f9-8e69-5251-9a1b-2f85bfde0d1a</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/174435f9-8e69-5251-9a1b-2f85bfde0d1a</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Porous medium heterogeneity favors chemotaxis to nutrient hotspots in flow</title>
+      <link>https://pattern.swarma.org/paper/03875643-17f3-5073-8653-757ff52c7f62</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/03875643-17f3-5073-8653-757ff52c7f62</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Reversibility, Chaos, and Attractors in Periodically Sheared Elastic Filaments</title>
+      <link>https://pattern.swarma.org/paper/ea88c54e-82b2-5585-8eb9-b576e58ca713</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/ea88c54e-82b2-5585-8eb9-b576e58ca713</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Balancing information and dissipation with partially observed fluctuating signals</title>
+      <link>https://pattern.swarma.org/paper/b8c5726c-2d4f-55e6-8d5c-3cc440a0695c</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/b8c5726c-2d4f-55e6-8d5c-3cc440a0695c</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Diffusion of Neuromodulators for Temporal Credit Assignment</title>
+      <link>https://pattern.swarma.org/paper/a1483d54-44c9-5127-935b-212c98e1531e</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/a1483d54-44c9-5127-935b-212c98e1531e</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>「 AI for Math 」读书会推荐阅读清单</title>
+      <link>https://pattern.swarma.org/article/397</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/397</guid>
+      <pubDate>Sat, 12 Sep 2026 04:27:41 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>Reflexivity from Hierarchical Causality</title>
+      <link>https://pattern.swarma.org/paper/f13ba612-b2e9-5813-a4ae-d339e8586f2e</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/f13ba612-b2e9-5813-a4ae-d339e8586f2e</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Crowding controls the scaling of bus frequency with demand</title>
+      <link>https://pattern.swarma.org/paper/e0f2d8ea-db7d-5d99-8ea0-9fabf684f5d9</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/e0f2d8ea-db7d-5d99-8ea0-9fabf684f5d9</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Entropic Confinement in String-Net Models: An Analogue Study via SU(2)k Fusion Categories</title>
+      <link>https://pattern.swarma.org/paper/b64517db-c4ca-53dc-95f9-3d8507ad50c0</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/b64517db-c4ca-53dc-95f9-3d8507ad50c0</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Hyperadaptability Through Self-Organizing Behavioral Search</title>
+      <link>https://pattern.swarma.org/paper/97fd5c98-4f1c-5f58-b00f-583ca0816bcd</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/97fd5c98-4f1c-5f58-b00f-583ca0816bcd</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Diverse ancestral myosin motors generate and segregate distinct types of nanocluster-rich domains at the plasma membrane</title>
+      <link>https://pattern.swarma.org/paper/89c288bf-53fb-59b3-803f-1f296f24520a</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/89c288bf-53fb-59b3-803f-1f296f24520a</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>High-Dimensional Linear Preference Model</title>
+      <link>https://pattern.swarma.org/paper/2f625d82-c760-53a5-937b-d51a844e72cd</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/2f625d82-c760-53a5-937b-d51a844e72cd</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>A unifying principle of chromatic coding across biological and artificial systems</title>
+      <link>https://pattern.swarma.org/paper/178fdcf2-9f41-57d7-8d15-4e7786386c96</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/178fdcf2-9f41-57d7-8d15-4e7786386c96</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>TWO-DIMENSIONAL BILLIARDS ARE TURING COMPLETE</title>
+      <link>https://pattern.swarma.org/paper/eafc2229-fd42-5053-9379-c0c8ccdb4226</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/eafc2229-fd42-5053-9379-c0c8ccdb4226</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Discovery of a non-Hermitian phase transition in a bulk condensed-matter system</title>
+      <link>https://pattern.swarma.org/paper/7044c4e9-8511-5509-9849-5d5684b7d1fc</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/7044c4e9-8511-5509-9849-5d5684b7d1fc</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Self-organized hyperuniformity in a minimal model of population dynamics</title>
+      <link>https://pattern.swarma.org/paper/48ccfa57-94aa-578a-b684-ff0d68117db8</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/48ccfa57-94aa-578a-b684-ff0d68117db8</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Embedding of Low-Dimensional Sensory Dynamics in Recurrent Networks: Implications for the Geometry of Neural Representation</title>
+      <link>https://pattern.swarma.org/paper/148107c6-ed4e-5865-9792-ae771f514c83</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/148107c6-ed4e-5865-9792-ae771f514c83</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Starvation suppression in dense scale-free metabolic networks: Dynamical mean-field analysis of catalytic reaction networks</title>
+      <link>https://pattern.swarma.org/paper/10d0eae3-bfe2-5d74-9d91-b6eef02e120f</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/10d0eae3-bfe2-5d74-9d91-b6eef02e120f</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Wind-driven collisions between floes explain the observed dispersion of Arctic sea ice</title>
+      <link>https://pattern.swarma.org/paper/0b993918-811e-5121-9d0b-39ba298b5dc0</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/0b993918-811e-5121-9d0b-39ba298b5dc0</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Neocortical long-range inhibition promotes cortical synchrony and sleep</title>
+      <link>https://pattern.swarma.org/paper/cd0d0adc-4549-5d06-988d-a8e9d0dc0d0f</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/cd0d0adc-4549-5d06-988d-a8e9d0dc0d0f</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Substrate heterogeneity promotes cancer cell dissemination through interface roughening</title>
+      <link>https://pattern.swarma.org/paper/b2677aee-7f7d-5d97-bc13-c18df99d25d6</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/b2677aee-7f7d-5d97-bc13-c18df99d25d6</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Pervasive weak incompatibilities shape phenotypic variation and genome evolution in yeast hybrids</title>
+      <link>https://pattern.swarma.org/paper/83df2441-bf26-5366-8151-b68940884228</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/83df2441-bf26-5366-8151-b68940884228</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Predicting Brain Morphogenesis via Physics-Transfer Learning</title>
+      <link>https://pattern.swarma.org/paper/7a46538f-5c6e-52c0-a1f3-a81523dcc978</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/7a46538f-5c6e-52c0-a1f3-a81523dcc978</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Programming sequential deployment of origami via kinematic transition fronts</title>
+      <link>https://pattern.swarma.org/paper/709a1a8f-0315-5ad4-bf73-8863b6e9ea9f</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/709a1a8f-0315-5ad4-bf73-8863b6e9ea9f</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Extraordinary Tibetan Plateau Early-Winter Heating Drove Record-Breaking Winter Precipitation in California and Adjacent Regions in 2016/2017 and 2023</title>
+      <link>https://pattern.swarma.org/paper/5aa0b245-418c-5cba-a703-200912e5a25b</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/5aa0b245-418c-5cba-a703-200912e5a25b</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Breakdown of Emergent Chiral Order and Defect Chaos in Nonreciprocal Flocks</title>
+      <link>https://pattern.swarma.org/paper/fdb238ed-0cc1-544a-a770-52153ad48f2a</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/fdb238ed-0cc1-544a-a770-52153ad48f2a</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Integrative modelling of the genome structure and dynamics in fission yeast</title>
+      <link>https://pattern.swarma.org/paper/ec27a843-f02b-5a76-b8f3-b613f3127b3e</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/ec27a843-f02b-5a76-b8f3-b613f3127b3e</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Flow-driven lumen remodeling and valve opening in the vas deferens</title>
+      <link>https://pattern.swarma.org/paper/b7d4f8ed-3f02-5e9d-9b6c-1a899a7cc0f1</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/b7d4f8ed-3f02-5e9d-9b6c-1a899a7cc0f1</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Illusory early-warning signals of Greenland Ice Sheet destabilization</title>
+      <link>https://pattern.swarma.org/paper/6b41c0ce-8a67-5bc7-9b9e-4d81247fa198</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/6b41c0ce-8a67-5bc7-9b9e-4d81247fa198</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Contact percolation governs collective motility via mechano-chemical feedback in heterogeneous breast cancer</title>
+      <link>https://pattern.swarma.org/paper/2b6389ba-82ec-55b5-a4f7-f5639b1def60</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/2b6389ba-82ec-55b5-a4f7-f5639b1def60</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Temporal prediction captures retinal spiking responses across animal species</title>
+      <link>https://pattern.swarma.org/paper/158a24bd-8ff4-5641-91f4-39142b7efdff</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/158a24bd-8ff4-5641-91f4-39142b7efdff</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Causal evidence that language models use confidence to drive behaviour</title>
+      <link>https://pattern.swarma.org/paper/4abb8834-a63b-5d3c-ac51-3e59a9d4650a</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/4abb8834-a63b-5d3c-ac51-3e59a9d4650a</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Global lake tipping vulnerability under sustained agricultural exposure</title>
+      <link>https://pattern.swarma.org/paper/3b4da6ef-ce67-5708-868c-6f525afd84b4</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/3b4da6ef-ce67-5708-868c-6f525afd84b4</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Rising plant extinction rates on European mountain summits</title>
+      <link>https://pattern.swarma.org/paper/ec90b4d9-1a4b-50f1-b973-7468117debd6</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/ec90b4d9-1a4b-50f1-b973-7468117debd6</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>High-capacity associative memory in a quantum-optical spin glass</title>
+      <link>https://pattern.swarma.org/paper/b2345836-b3fb-5b2d-9a7e-92f0cb7f2ae6</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/b2345836-b3fb-5b2d-9a7e-92f0cb7f2ae6</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Human cortical networks trade communication efficiency for computational reliability</title>
+      <link>https://pattern.swarma.org/paper/f129d0d6-c8fe-5bfe-98fd-f9f1782b6671</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/f129d0d6-c8fe-5bfe-98fd-f9f1782b6671</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Lyapunov exponents explain disorder-induced polarization and soliton jumping in a mechanical Markov system</title>
+      <link>https://pattern.swarma.org/paper/7a9b71f3-9710-5747-892b-833a5d5566a2</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/7a9b71f3-9710-5747-892b-833a5d5566a2</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Epithelial convergent extension as a tuning process</title>
+      <link>https://pattern.swarma.org/paper/b97ec3fb-e175-5c0e-8a41-98727754c665</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/b97ec3fb-e175-5c0e-8a41-98727754c665</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Hash Chemistry: Minimal Models for Evolutionary Growth of Complexity</title>
+      <link>https://pattern.swarma.org/paper/521133ac-15d7-4dfc-8894-afc603023ee9</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/521133ac-15d7-4dfc-8894-afc603023ee9</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Group size effects and collective misalignment in LLM multi-agent systems</title>
+      <link>https://pattern.swarma.org/paper/8d83d990-a8df-4351-9828-215aa312baf8</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/8d83d990-a8df-4351-9828-215aa312baf8</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Evolutionary spandrels in collective animal behaviour.</title>
+      <link>https://pattern.swarma.org/paper/32b5c291-e760-5fcf-bfa1-fa6378160726</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/32b5c291-e760-5fcf-bfa1-fa6378160726</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Evolution of social behaviors in noisy environments</title>
+      <link>https://pattern.swarma.org/paper/9d4b2ee4-6461-53e1-8ede-c3ec2cf230a8</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/9d4b2ee4-6461-53e1-8ede-c3ec2cf230a8</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Life-inspired Interoceptive Artificial Intelligence for Autonomous and Adaptive Agents</title>
+      <link>https://pattern.swarma.org/paper/d867e424-cfb5-4028-a1a3-057ec5a9d52c</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/d867e424-cfb5-4028-a1a3-057ec5a9d52c</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Multifaceted parental niche construction buffers microbial and competitive challenges and drives offspring dependence in burying beetles</title>
+      <link>https://pattern.swarma.org/paper/d560a340-aa29-5fb1-acd1-80c8fd4dba4d</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/d560a340-aa29-5fb1-acd1-80c8fd4dba4d</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Sensory context improves language prediction in humans and LLMs</title>
+      <link>https://pattern.swarma.org/paper/89d4c048-4ea3-5fad-a3c4-3f19c0c7aaed</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/89d4c048-4ea3-5fad-a3c4-3f19c0c7aaed</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Loss of neuronal population organization links pathology to behavior in a model of Alzheimer's disease</title>
+      <link>https://pattern.swarma.org/paper/58cf5250-52c7-59c4-a73f-3e2726627d57</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/58cf5250-52c7-59c4-a73f-3e2726627d57</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Learning to outgrow the competition: reaction-diffusion systems that adapt to time-dependent environments</title>
+      <link>https://pattern.swarma.org/paper/d86be353-ca07-52c9-9b8b-8636de8250cc</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/d86be353-ca07-52c9-9b8b-8636de8250cc</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Actin based cell chirality emerging at the boundary of 2D-microtissue directs chiral multicellular pattern formation</title>
+      <link>https://pattern.swarma.org/paper/8f71d433-b064-5d3b-90f2-b1246b1803e1</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/8f71d433-b064-5d3b-90f2-b1246b1803e1</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Stochasticity and probabilistic trajectory scoring are essential for data-driven closures of chaotic systems</title>
+      <link>https://pattern.swarma.org/paper/498a9c5b-ea14-524e-a73f-5247f8fe0ba8</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/498a9c5b-ea14-524e-a73f-5247f8fe0ba8</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>「拯救2050：未来学」读书会推荐阅读清单</title>
+      <link>https://pattern.swarma.org/article/396</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/396</guid>
+      <pubDate>Fri, 21 Aug 2026 08:46:50 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>Observation of Erratic Non-Hermitian Skin Localization and Transport</title>
+      <link>https://pattern.swarma.org/paper/9aee05ac-493c-44d3-afda-53bef566ab38</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/9aee05ac-493c-44d3-afda-53bef566ab38</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Why we must stop talking about artificial general intelligence — and instead build 'pro-worker' AI</title>
+      <link>https://pattern.swarma.org/paper/57f71c2f-4b5e-5981-a06c-1b18d8bb9767</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/57f71c2f-4b5e-5981-a06c-1b18d8bb9767</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Stochastic theory for pattern formation and front propagation in transitional pipe turbulence</title>
+      <link>https://pattern.swarma.org/paper/a670eb63-094f-58f4-b201-9246f79b7199</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/a670eb63-094f-58f4-b201-9246f79b7199</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>「人工智能与哲学」读书会推荐阅读清单</title>
+      <link>https://pattern.swarma.org/article/395</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/395</guid>
+      <pubDate>Wed, 19 Aug 2026 00:38:19 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>Dynamic multiphase flow triggers chaotic mixing in porous media</title>
+      <link>https://pattern.swarma.org/paper/b1bb713d-e5f2-5b10-ab5b-3eec5d2d5c08</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/b1bb713d-e5f2-5b10-ab5b-3eec5d2d5c08</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Soft matter, hard rules: Emulsions follow the laws of granular suspension rheology</title>
+      <link>https://pattern.swarma.org/paper/a07f91d8-732f-5091-8325-e4e088bbb107</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/a07f91d8-732f-5091-8325-e4e088bbb107</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Psychedelics align brain activity with context</title>
+      <link>https://pattern.swarma.org/paper/7a884bae-bebe-4137-83fc-7c63a1401e05</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/7a884bae-bebe-4137-83fc-7c63a1401e05</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Numerical investigation of the equilibrium Kauzmann transition in a two-dimensional atomistic glass</title>
+      <link>https://pattern.swarma.org/paper/20c352ad-f964-5fb2-8fb6-e3bad1a3f5b7</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/20c352ad-f964-5fb2-8fb6-e3bad1a3f5b7</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Morphogenesis of bacterial colonies in liquid crystalline environments</title>
+      <link>https://pattern.swarma.org/paper/dcfc29da-9c84-5b20-b43f-992d5e915a22</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/dcfc29da-9c84-5b20-b43f-992d5e915a22</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Quantum-Like Dynamics in Whole-Brain Models of the Human Connectome</title>
+      <link>https://pattern.swarma.org/paper/60d85f3d-3bc8-5e27-82e7-1a76ed041cb8</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/60d85f3d-3bc8-5e27-82e7-1a76ed041cb8</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Proliferation to suppress neoplasia: a general model and a first test in the moon jelly</title>
+      <link>https://pattern.swarma.org/paper/41a98509-2216-5349-9bd6-9e0e6cb1eaf0</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/41a98509-2216-5349-9bd6-9e0e6cb1eaf0</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Tissue geometry and mechanochemical feedback initiate rotational migration in Drosophila</title>
+      <link>https://pattern.swarma.org/paper/41a7d845-6eb2-5323-8598-a28aee686e04</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/41a7d845-6eb2-5323-8598-a28aee686e04</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Irreversibility and symmetry breaking in the creation and annihilation of defects in active living matter</title>
+      <link>https://pattern.swarma.org/paper/37a843f7-45a8-4b41-a2d6-6cc0304eb992</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/37a843f7-45a8-4b41-a2d6-6cc0304eb992</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Group size effects and collective misalignment in LLM multi-agent systems</title>
+      <link>https://pattern.swarma.org/paper/20683e5d-1ba0-5fd1-8f9f-f798aca3c3d7</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/20683e5d-1ba0-5fd1-8f9f-f798aca3c3d7</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Value misalignment in X's feed algorithm is a reflection of value tensions in engagement</title>
+      <link>https://pattern.swarma.org/paper/fc64b947-fe71-52ec-a56d-1a03c2507207</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/fc64b947-fe71-52ec-a56d-1a03c2507207</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>The ecology of Lyme disease: Long-term data, surprises, and a synthesis</title>
+      <link>https://pattern.swarma.org/paper/4b199fc2-e80b-5dcc-863c-359a11172f02</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/4b199fc2-e80b-5dcc-863c-359a11172f02</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>语言重构学科——通用底层认知学习规律</title>
+      <link>https://pattern.swarma.org/article/393</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/393</guid>
+      <pubDate>Sun, 16 Aug 2026 09:41:32 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>AI agents can coordinate via majority-following beyond human scale</title>
+      <link>https://pattern.swarma.org/paper/e4409415-22ab-5bac-9ac1-e4e927564a03</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/e4409415-22ab-5bac-9ac1-e4e927564a03</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Predictive processing as a scalable computational principle for embodied multitask intelligence</title>
+      <link>https://pattern.swarma.org/paper/c990ec5f-1867-5dee-ba26-84bcf2450d0d</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/c990ec5f-1867-5dee-ba26-84bcf2450d0d</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Unifying the structures of language in a neural population code</title>
+      <link>https://pattern.swarma.org/paper/0ab669de-37b3-57a9-ac3c-d8494bdcadaf</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/0ab669de-37b3-57a9-ac3c-d8494bdcadaf</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>The structural origin of irreversible transitions in biological networks</title>
+      <link>https://pattern.swarma.org/paper/2c5b635d-99d0-551b-9a4b-854ab725b6c1</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/2c5b635d-99d0-551b-9a4b-854ab725b6c1</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Extreme vulnerability to intruder attacks destabilizes network dynamics</title>
+      <link>https://pattern.swarma.org/paper/1de3ee94-63f9-44cc-aeb9-50fcb97dbd3a</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/1de3ee94-63f9-44cc-aeb9-50fcb97dbd3a</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Recursive mentalizing and public salience in the perception of common knowledge</title>
+      <link>https://pattern.swarma.org/paper/919150f3-6860-53bf-b28c-2621adc6aea4</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/919150f3-6860-53bf-b28c-2621adc6aea4</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>The Rise of Large Language Models and the Direction and Impact of US Federal Research Funding</title>
+      <link>https://pattern.swarma.org/paper/f5ebe292-eea0-5bb9-8618-0e0a4a17d844</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/f5ebe292-eea0-5bb9-8618-0e0a4a17d844</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>The history of enzyme evolution embedded in metabolism</title>
+      <link>https://pattern.swarma.org/paper/183b21a7-a055-54aa-be8c-90a3478f0488</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/183b21a7-a055-54aa-be8c-90a3478f0488</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>The market for human smuggling: Structure, mechanisms, and paradoxes</title>
+      <link>https://pattern.swarma.org/paper/d3067c59-74f7-5847-acdf-7498cbb16bb8</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/d3067c59-74f7-5847-acdf-7498cbb16bb8</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Many-Eyes and Sentinels in Selfish and Cooperative Groups</title>
+      <link>https://pattern.swarma.org/paper/c37f2df7-acf3-596c-a93d-cc9a72eea241</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/c37f2df7-acf3-596c-a93d-cc9a72eea241</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>A transient global warming event during Earth's penultimate icehouse</title>
+      <link>https://pattern.swarma.org/paper/babaeabd-b13e-59f5-847d-8e6de8bf5bd5</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/babaeabd-b13e-59f5-847d-8e6de8bf5bd5</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>How illegal wildlife trade adheres to and defies conventional market behavior</title>
+      <link>https://pattern.swarma.org/paper/b88d2f12-f239-5dda-8a58-6c48b6c46c27</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/b88d2f12-f239-5dda-8a58-6c48b6c46c27</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>The origin and development of the Miocene northwest African savanna</title>
+      <link>https://pattern.swarma.org/paper/a7ffff43-b27e-5311-9100-1e7a2be3fd62</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/a7ffff43-b27e-5311-9100-1e7a2be3fd62</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Correlations between rare events for Gaussian stochastic processes with long-term memory</title>
+      <link>https://pattern.swarma.org/paper/65ee7a80-542d-53d6-909b-599962a1e995</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/65ee7a80-542d-53d6-909b-599962a1e995</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>A unifying framework for the evolution of metazoa and social insects, two major evolutionary transitions</title>
+      <link>https://pattern.swarma.org/paper/c6cf523f-d08c-5c57-aa16-ea1ed98075d8</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/c6cf523f-d08c-5c57-aa16-ea1ed98075d8</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Subtypes of neurons in the cerebellar cortex</title>
+      <link>https://pattern.swarma.org/paper/c69e9c1e-f623-5253-93ab-fc8870a55929</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/c69e9c1e-f623-5253-93ab-fc8870a55929</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Protecting Episodic Memory After Sleep Loss: Similar Benefits of Exercise and Naps via Distinct Neural Contributions</title>
+      <link>https://pattern.swarma.org/paper/b88b94d0-525f-5962-80a5-9bc2f9b961a7</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/b88b94d0-525f-5962-80a5-9bc2f9b961a7</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Language-like statistical structure arises in learned signaling: evidence from birdsong</title>
+      <link>https://pattern.swarma.org/paper/7f6c2b78-0503-5e9a-ab82-df3ee875e59e</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/7f6c2b78-0503-5e9a-ab82-df3ee875e59e</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Deep Learning-Based Control of Electrically Evoked Activity in Human Visual Cortex</title>
+      <link>https://pattern.swarma.org/paper/642f3f0f-1b3a-527d-9fab-7bc5a097f602</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/642f3f0f-1b3a-527d-9fab-7bc5a097f602</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Higher order trade-offs in hypergraph community detection</title>
+      <link>https://pattern.swarma.org/paper/31368750-9e7d-438a-8570-1acb785f3e7f</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/31368750-9e7d-438a-8570-1acb785f3e7f</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Implicit Biases Change More Slowly in Larger Cities</title>
+      <link>https://pattern.swarma.org/paper/3a4f73ad-e8e5-5119-b519-d8c691221f06</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/3a4f73ad-e8e5-5119-b519-d8c691221f06</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Collective problem decomposition improves the wisdom of deliberative crowds</title>
+      <link>https://pattern.swarma.org/paper/5398351a-179a-5d83-9fce-135abf22d433</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/5398351a-179a-5d83-9fce-135abf22d433</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Attention to heterogeneous information sources affects epidemic outcomes</title>
+      <link>https://pattern.swarma.org/paper/1e9528d7-2bc5-5811-843b-038b0149decd</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/1e9528d7-2bc5-5811-843b-038b0149decd</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Hyperedge approximation for stochastic processes on higher-order networks</title>
+      <link>https://pattern.swarma.org/paper/0aa7c0f9-601c-5a99-831e-47fbec78230e</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/0aa7c0f9-601c-5a99-831e-47fbec78230e</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Evolution on degenerate fitness landscapes is not neutral: curvature drives directional bias</title>
+      <link>https://pattern.swarma.org/paper/7ee8650f-00b8-5f6f-a7e9-7a8dc288425a</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/7ee8650f-00b8-5f6f-a7e9-7a8dc288425a</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>OPTIMIZING INFECTIOUS DISEASE MITIGATION UNDER DYNAMIC CONDITIONS</title>
+      <link>https://pattern.swarma.org/paper/2750f89c-301c-5ac6-8996-27018255f632</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/2750f89c-301c-5ac6-8996-27018255f632</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Path-dependency and emergent computing under vectorial driving</title>
+      <link>https://pattern.swarma.org/paper/affcff4e-a4f6-43c9-82a7-43fda0e07702</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/affcff4e-a4f6-43c9-82a7-43fda0e07702</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Charting higher-order models of brain function beyond pairwise interactions</title>
+      <link>https://pattern.swarma.org/paper/cbd3b64f-1c21-557f-aeb4-58a88809f0dd</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/cbd3b64f-1c21-557f-aeb4-58a88809f0dd</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>The Piezochiral Effect</title>
+      <link>https://pattern.swarma.org/paper/738e241c-93a6-4add-9d14-007d71ec4b3c</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/738e241c-93a6-4add-9d14-007d71ec4b3c</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Continuous Game of Life: cell emergence and self-organization at the edge of growth</title>
+      <link>https://pattern.swarma.org/paper/30632165-b668-5f9d-a2f2-33ed93984b65</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/30632165-b668-5f9d-a2f2-33ed93984b65</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>读Robert Rosen的Life Itself——A Comprehensive Inquiry Into the Nature, Origin, and Fabrication of Life</title>
+      <link>https://pattern.swarma.org/article/392</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/392</guid>
+      <pubDate>Tue, 28 Jul 2026 23:42:55 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>Rapid acceleration of ice-cover loss from Northern Hemisphere lakes above critical air temperature thresholds</title>
+      <link>https://pattern.swarma.org/paper/f86bb036-5829-5314-a97b-7d96ec548e41</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/f86bb036-5829-5314-a97b-7d96ec548e41</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>Topological Phase Transitions and Mixed State Order in a Hubbard Quantum Simulator</title>
+      <link>https://pattern.swarma.org/paper/5c95487f-34e1-4950-8955-fba6f63651cc</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/paper/5c95487f-34e1-4950-8955-fba6f63651cc</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Paper</category>
+      <category>Complexity</category>
+    </item>
+    <item>
+      <title>「世界模型：从内部表征到真实世界的智能」读书会推荐阅读清单</title>
+      <link>https://pattern.swarma.org/article/391</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/391</guid>
+      <pubDate>Fri, 17 Jul 2026 10:10:58 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>「自指与AI：从递归式自我改进到AI意识研究」读书会推荐阅读清单</title>
+      <link>https://pattern.swarma.org/article/389</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/389</guid>
+      <pubDate>Wed, 08 Jul 2026 08:17:39 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>跨媒体传播读书会材料</title>
+      <link>https://pattern.swarma.org/article/388</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/388</guid>
+      <pubDate>Sat, 27 Jun 2026 01:16:10 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>「AI × 传播」读书会第二季 读书会推荐阅读清单</title>
+      <link>https://pattern.swarma.org/article/387</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/387</guid>
+      <pubDate>Wed, 17 Jun 2026 05:35:37 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>「复杂系统管理学读书会第四季」读书会推荐阅读清单</title>
+      <link>https://pattern.swarma.org/article/386</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/386</guid>
+      <pubDate>Wed, 27 May 2026 14:04:08 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>《 Vibe Modeling 读书会：从技术框架到跨学科应用 》读书会推荐阅读清单</title>
+      <link>https://pattern.swarma.org/article/385</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/385</guid>
+      <pubDate>Thu, 30 Apr 2026 08:23:21 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>新编辑器上线啦</title>
+      <link>https://pattern.swarma.org/article/384</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/384</guid>
+      <pubDate>Tue, 14 Apr 2026 19:04:15 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>《「游戏✖️复杂科学」：从规则宇宙到虚拟文明》读书会推荐阅读与互动资料</title>
+      <link>https://pattern.swarma.org/article/383</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/383</guid>
+      <pubDate>Fri, 20 Mar 2026 07:33:03 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>因果涌现读书会第七季文献列表</title>
+      <link>https://pattern.swarma.org/article/382</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/382</guid>
+      <pubDate>Mon, 26 Jan 2026 09:52:30 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>《细胞动力学读书会:基因网络、细胞动力学、组织形态与发育》读书会推荐阅读材料</title>
+      <link>https://pattern.swarma.org/article/381</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/381</guid>
+      <pubDate>Tue, 20 Jan 2026 08:43:12 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>群体智能：从自然涌现到人机共舞 读书会论文推荐阅读清单</title>
+      <link>https://pattern.swarma.org/article/379</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/379</guid>
+      <pubDate>Fri, 12 Dec 2025 05:14:11 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>发起人力荐！理论生态学读书会推荐阅读清单</title>
+      <link>https://pattern.swarma.org/article/378</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/378</guid>
+      <pubDate>Wed, 26 Nov 2025 14:20:27 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>集智学园课程《拓扑学的思维革命：从空间直觉到系统科学》推荐阅读清单</title>
+      <link>https://pattern.swarma.org/article/377</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/377</guid>
+      <pubDate>Tue, 18 Nov 2025 08:13:12 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>走向意识科学：从现象之窗到理论之梯</title>
+      <link>https://pattern.swarma.org/article/375</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/375</guid>
+      <pubDate>Tue, 14 Oct 2025 02:41:20 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>集智学园课程《系统科学前沿》第二期讲师推荐阅读清单</title>
+      <link>https://pattern.swarma.org/article/374</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/374</guid>
+      <pubDate>Mon, 13 Oct 2025 03:36:00 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>Nature：非线性动力学研究合辑（2021-2025）</title>
+      <link>https://pattern.swarma.org/article/373</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/373</guid>
+      <pubDate>Tue, 16 Sep 2025 09:02:37 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>Nature子刊多篇文章速览: 大模型赋能的科学发现</title>
+      <link>https://pattern.swarma.org/article/372</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/372</guid>
+      <pubDate>Mon, 08 Sep 2025 11:39:36 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>复杂网络瓦解：从结构脆弱性到智能优化前沿 读书会论文阅读清单</title>
+      <link>https://pattern.swarma.org/article/371</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/371</guid>
+      <pubDate>Fri, 05 Sep 2025 05:16:32 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>AI×传播行为研究读书会参考文献列表</title>
+      <link>https://pattern.swarma.org/article/368</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/368</guid>
+      <pubDate>Wed, 30 Jul 2025 06:19:36 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>金融复杂性读书会参考文献列表</title>
+      <link>https://pattern.swarma.org/article/367</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/367</guid>
+      <pubDate>Mon, 14 Jul 2025 14:00:17 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>非平衡统计物理读书会讨论：Physics of AI 和 Physics for AI</title>
+      <link>https://pattern.swarma.org/article/366</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/366</guid>
+      <pubDate>Sun, 13 Jul 2025 05:19:45 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>从神经动力学到意识：跨尺度计算、演化与涌现</title>
+      <link>https://pattern.swarma.org/article/365</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/365</guid>
+      <pubDate>Wed, 09 Jul 2025 01:20:58 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>集智学园课程《系统科学前沿》讲师推荐阅读清单列表</title>
+      <link>https://pattern.swarma.org/article/364</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/364</guid>
+      <pubDate>Mon, 23 Jun 2025 05:04:42 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>圣塔菲：复杂性科学经典论文集（1922-2000）</title>
+      <link>https://pattern.swarma.org/article/357</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/357</guid>
+      <pubDate>Thu, 19 Jun 2025 15:06:30 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>《方福康学术文集：走向系统科学》收录文献汇总</title>
+      <link>https://pattern.swarma.org/article/355</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/355</guid>
+      <pubDate>Wed, 18 Jun 2025 10:21:19 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>统计物理与复杂生态系统</title>
+      <link>https://pattern.swarma.org/article/354</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/354</guid>
+      <pubDate>Fri, 13 Jun 2025 08:25:59 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>大模型时代下的Agent建模与仿真读书会参考文献列表</title>
+      <link>https://pattern.swarma.org/article/352</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/352</guid>
+      <pubDate>Wed, 11 Jun 2025 10:14:04 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>Nat.Mach.Intell. AI+Psy：人类与AI交互、协作最新研究</title>
+      <link>https://pattern.swarma.org/article/350</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/350</guid>
+      <pubDate>Sat, 17 May 2025 09:25:00 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>大模型时代下的人机交互与协同读书会阅读文献列表</title>
+      <link>https://pattern.swarma.org/article/349</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/349</guid>
+      <pubDate>Fri, 09 May 2025 02:17:49 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>大模型可解释性读书会阅读文献列表</title>
+      <link>https://pattern.swarma.org/article/348</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/348</guid>
+      <pubDate>Thu, 08 May 2025 07:13:41 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>AI时代的学习：共探人类学习的复杂性</title>
+      <link>https://pattern.swarma.org/article/345</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/345</guid>
+      <pubDate>Wed, 26 Mar 2025 01:11:44 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>大自然的计算：从伊辛模型到生成学习</title>
+      <link>https://pattern.swarma.org/article/343</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/343</guid>
+      <pubDate>Mon, 10 Mar 2025 08:22:27 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>Pi(π) Day：邀你与全球顶级科学家一起共探AI未来</title>
+      <link>https://pattern.swarma.org/article/342</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/342</guid>
+      <pubDate>Mon, 10 Mar 2025 06:19:39 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>因果涌现第六季读书会参考文献清单</title>
+      <link>https://pattern.swarma.org/article/341</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/341</guid>
+      <pubDate>Fri, 14 Feb 2025 10:03:18 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>首个专为AI从业者打造的量子机器学习(Quantum Machine Learning)教程发布</title>
+      <link>https://pattern.swarma.org/article/340</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/340</guid>
+      <pubDate>Wed, 12 Feb 2025 06:16:13 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>AI模拟社会，“幕后”的操控者究竟是谁？</title>
+      <link>https://pattern.swarma.org/article/339</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/339</guid>
+      <pubDate>Tue, 11 Feb 2025 07:58:47 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>复杂网络动力学读书会文献清单 | 共研复杂网络上的自组织与集体行为：从扩散、相变到博弈</title>
+      <link>https://pattern.swarma.org/article/335</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/335</guid>
+      <pubDate>Sat, 25 Jan 2025 12:49:40 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>细胞态转化的定量研究：动力学、统计性质与流形分析</title>
+      <link>https://pattern.swarma.org/article/333</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/333</guid>
+      <pubDate>Wed, 01 Jan 2025 13:59:46 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>细胞命运决定和多细胞生成中的数学模型</title>
+      <link>https://pattern.swarma.org/article/332</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/332</guid>
+      <pubDate>Wed, 01 Jan 2025 13:50:13 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>大模型2.0：从推断到自指</title>
+      <link>https://pattern.swarma.org/article/331</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/331</guid>
+      <pubDate>Wed, 01 Jan 2025 09:52:40 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>具身智能读书会参考文献清单</title>
+      <link>https://pattern.swarma.org/article/330</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/330</guid>
+      <pubDate>Thu, 19 Dec 2024 16:35:32 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>汪劲：非平衡动力学和热力学</title>
+      <link>https://pattern.swarma.org/article/329</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/329</guid>
+      <pubDate>Thu, 19 Dec 2024 06:53:52 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>梁师翎：热力学的拓展之路：从宏观到微观、从平衡到非平衡</title>
+      <link>https://pattern.swarma.org/article/328</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/328</guid>
+      <pubDate>Thu, 19 Dec 2024 06:50:51 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>地球系统科学第二季文献阅读清单</title>
+      <link>https://pattern.swarma.org/article/327</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/327</guid>
+      <pubDate>Tue, 10 Dec 2024 06:20:27 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>大模型2.0：融合学习与推理的大模型新范式读书会参考文献清单</title>
+      <link>https://pattern.swarma.org/article/326</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/326</guid>
+      <pubDate>Thu, 07 Nov 2024 14:23:11 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>几何深度学习方法、应用及其存在价值 | 几何深度学习第三期分享+圆桌整理</title>
+      <link>https://pattern.swarma.org/article/325</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/325</guid>
+      <pubDate>Fri, 25 Oct 2024 01:42:29 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>科学守门人：科学评审中的利益冲突</title>
+      <link>https://pattern.swarma.org/article/324</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/324</guid>
+      <pubDate>Wed, 09 Oct 2024 01:42:15 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>非平衡统计物理读书会阅读文献</title>
+      <link>https://pattern.swarma.org/article/323</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/323</guid>
+      <pubDate>Tue, 08 Oct 2024 10:50:07 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>昆虫智能与AI读书会阅读文献列表</title>
+      <link>https://pattern.swarma.org/article/322</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/322</guid>
+      <pubDate>Thu, 19 Sep 2024 04:03:34 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>整合信息论读书会阅读文献列表</title>
+      <link>https://pattern.swarma.org/article/321</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/321</guid>
+      <pubDate>Sat, 07 Sep 2024 18:10:16 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>Wolfram的A New Kind of Science（NKS）: Summer School 2007纪实</title>
+      <link>https://pattern.swarma.org/article/320</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/320</guid>
+      <pubDate>Fri, 23 Aug 2024 10:50:27 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>复杂系统自动建模第二季</title>
+      <link>https://pattern.swarma.org/article/319</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/319</guid>
+      <pubDate>Fri, 09 Aug 2024 08:50:31 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>面向未来的科学学读书会</title>
+      <link>https://pattern.swarma.org/article/318</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/318</guid>
+      <pubDate>Wed, 24 Jul 2024 02:19:43 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>经典重读：《A New Kind of Science》读书会 参考阅读材料</title>
+      <link>https://pattern.swarma.org/article/317</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/317</guid>
+      <pubDate>Tue, 16 Jul 2024 01:06:49 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>圣塔菲研究所2024暑期夏令营</title>
+      <link>https://pattern.swarma.org/article/316</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/316</guid>
+      <pubDate>Mon, 15 Jul 2024 08:18:21 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>生命复杂性读书会阅读材料：生命组学数据</title>
+      <link>https://pattern.swarma.org/article/315</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/315</guid>
+      <pubDate>Fri, 28 Jun 2024 09:09:26 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>生命复杂性读书会：生命复杂系统的构成原理文献列表</title>
+      <link>https://pattern.swarma.org/article/314</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/314</guid>
+      <pubDate>Thu, 27 Jun 2024 16:33:02 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>神经元树突计算的理论与模型</title>
+      <link>https://pattern.swarma.org/article/313</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/313</guid>
+      <pubDate>Mon, 24 Jun 2024 01:44:37 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>视觉建模分享整理</title>
+      <link>https://pattern.swarma.org/article/312</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/312</guid>
+      <pubDate>Sat, 22 Jun 2024 11:13:53 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>几何深度学习 领域经典、前沿文献、相关资料推荐清单</title>
+      <link>https://pattern.swarma.org/article/311</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/311</guid>
+      <pubDate>Sat, 15 Jun 2024 09:25:38 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>探索人工智能时代的社会科学新图景</title>
+      <link>https://pattern.swarma.org/article/310</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/310</guid>
+      <pubDate>Wed, 05 Jun 2024 08:38:35 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>网络结构对神经群体整体动力学的影响</title>
+      <link>https://pattern.swarma.org/article/308</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/308</guid>
+      <pubDate>Tue, 04 Jun 2024 03:39:44 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>因果科学与大语言模型读书会阅读文献清单</title>
+      <link>https://pattern.swarma.org/article/307</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/307</guid>
+      <pubDate>Tue, 28 May 2024 07:48:01 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>脑机接口圆桌讨论笔记</title>
+      <link>https://pattern.swarma.org/article/306</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/306</guid>
+      <pubDate>Thu, 23 May 2024 02:42:12 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>AI by Complexity读书会参考文献：复杂性怎样量化和驱动下一代AI系统</title>
+      <link>https://pattern.swarma.org/article/303</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/303</guid>
+      <pubDate>Fri, 17 May 2024 00:15:21 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>脑机接口领域文献阅读清单</title>
+      <link>https://pattern.swarma.org/article/299</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/299</guid>
+      <pubDate>Wed, 17 Apr 2024 07:46:48 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>大语言模型的涌现能力：现象与解释</title>
+      <link>https://pattern.swarma.org/article/298</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/298</guid>
+      <pubDate>Sat, 06 Apr 2024 15:50:26 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>因果涌现读书会第五季文献列表</title>
+      <link>https://pattern.swarma.org/article/295</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/295</guid>
+      <pubDate>Tue, 02 Apr 2024 16:15:45 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>时序时空大模型读书会-参考文献清单</title>
+      <link>https://pattern.swarma.org/article/293</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/293</guid>
+      <pubDate>Sun, 24 Mar 2024 15:37:40 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>计算社会科学读书会第三季：AI + Social Science-论文列表</title>
+      <link>https://pattern.swarma.org/article/291</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/291</guid>
+      <pubDate>Tue, 27 Feb 2024 03:41:14 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>图灵完备与目标完备：从通用计算机到通用人工智能的预言</title>
+      <link>https://pattern.swarma.org/article/290</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/290</guid>
+      <pubDate>Tue, 20 Feb 2024 08:24:39 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>自由能原理与强化学习读书会阅读文献</title>
+      <link>https://pattern.swarma.org/article/289</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/289</guid>
+      <pubDate>Sun, 04 Feb 2024 08:44:13 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>众里寻一：从复杂性中探索普适规律</title>
+      <link>https://pattern.swarma.org/article/284</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/284</guid>
+      <pubDate>Mon, 29 Jan 2024 05:55:47 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>通往具身通用智能：如何让机器从自然模态中学习到世界模型？</title>
+      <link>https://pattern.swarma.org/article/283</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/283</guid>
+      <pubDate>Wed, 24 Jan 2024 10:07:40 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>计算力学：量化涌现的又一条路径</title>
+      <link>https://pattern.swarma.org/article/282</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/282</guid>
+      <pubDate>Tue, 23 Jan 2024 16:49:53 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>科学活动中如何更好的实现科学家匹配</title>
+      <link>https://pattern.swarma.org/article/281</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/281</guid>
+      <pubDate>Thu, 18 Jan 2024 13:56:17 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>大语言模型与多智能体系统读书会参考文献</title>
+      <link>https://pattern.swarma.org/article/279</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/279</guid>
+      <pubDate>Fri, 12 Jan 2024 05:48:50 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>计算神经科学读书会文献阅读清单</title>
+      <link>https://pattern.swarma.org/article/278</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/278</guid>
+      <pubDate>Mon, 08 Jan 2024 16:25:47 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>2023年复杂科学顶刊速递350+篇合集 | Complexity Express</title>
+      <link>https://pattern.swarma.org/article/277</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/277</guid>
+      <pubDate>Tue, 02 Jan 2024 11:58:50 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>复杂科学进展2023——来自集智俱乐部的年终大总结</title>
+      <link>https://pattern.swarma.org/article/276</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/276</guid>
+      <pubDate>Sun, 31 Dec 2023 09:58:55 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>大模型安全与对齐读书会参考文献</title>
+      <link>https://pattern.swarma.org/article/275</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/275</guid>
+      <pubDate>Thu, 28 Dec 2023 14:51:06 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>数字世界中的大模型Agent：机遇与风险</title>
+      <link>https://pattern.swarma.org/article/274</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/274</guid>
+      <pubDate>Thu, 14 Dec 2023 11:30:47 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>因果科学与智能体（Agents）：让AI更好的理解因果</title>
+      <link>https://pattern.swarma.org/article/273</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/273</guid>
+      <pubDate>Mon, 11 Dec 2023 08:41:03 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>张江：从复杂科学视角，追问生命是什么</title>
+      <link>https://pattern.swarma.org/article/272</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/272</guid>
+      <pubDate>Mon, 04 Dec 2023 03:07:53 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>图机器学习入门</title>
+      <link>https://pattern.swarma.org/article/271</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/271</guid>
+      <pubDate>Wed, 29 Nov 2023 07:24:45 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>图与基础模型：多模态基础模型关系推理能力概述</title>
+      <link>https://pattern.swarma.org/article/270</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/270</guid>
+      <pubDate>Sun, 26 Nov 2023 10:57:06 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>数学探索的未来：从AI引导人类直觉到数学大语言模型</title>
+      <link>https://pattern.swarma.org/article/268</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/268</guid>
+      <pubDate>Thu, 16 Nov 2023 10:40:58 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>当机器学习遇见拓扑：拓扑数据分析与拓扑深度学习</title>
+      <link>https://pattern.swarma.org/article/266</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/266</guid>
+      <pubDate>Tue, 07 Nov 2023 10:59:13 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>智能是什么？</title>
+      <link>https://pattern.swarma.org/article/265</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/265</guid>
+      <pubDate>Sun, 29 Oct 2023 13:13:45 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>什么是涌现？人工智能给你答案</title>
+      <link>https://pattern.swarma.org/article/264</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/264</guid>
+      <pubDate>Sat, 28 Oct 2023 12:01:50 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>脑与涌现的联系：从协同核到因果涌现</title>
+      <link>https://pattern.swarma.org/article/262</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/262</guid>
+      <pubDate>Wed, 25 Oct 2023 10:21:18 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>因果涌现读书会第四季参考文献</title>
+      <link>https://pattern.swarma.org/article/261</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/261</guid>
+      <pubDate>Wed, 25 Oct 2023 04:41:51 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>对话 | 阅读与科学</title>
+      <link>https://pattern.swarma.org/article/258</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/258</guid>
+      <pubDate>Sun, 08 Oct 2023 10:01:44 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>未来医学展望：多尺度生命形式为生物医学提供新道路</title>
+      <link>https://pattern.swarma.org/article/257</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/257</guid>
+      <pubDate>Sat, 07 Oct 2023 14:46:45 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>脑神经系统中的因果涌现</title>
+      <link>https://pattern.swarma.org/article/253</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/253</guid>
+      <pubDate>Sun, 24 Sep 2023 12:19:38 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>AGI通用人工智能读书会文献推荐</title>
+      <link>https://pattern.swarma.org/article/249</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/249</guid>
+      <pubDate>Fri, 01 Sep 2023 05:35:56 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>人工智能与数学读书会参考文献</title>
+      <link>https://pattern.swarma.org/article/248</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/248</guid>
+      <pubDate>Tue, 22 Aug 2023 02:35:59 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>大模型与生物医学读书会参考文献</title>
+      <link>https://pattern.swarma.org/article/246</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/246</guid>
+      <pubDate>Mon, 24 Jul 2023 15:24:58 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>当大脑遇上AI：从大脑解码技术到通用人工智能</title>
+      <link>https://pattern.swarma.org/article/244</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/244</guid>
+      <pubDate>Wed, 19 Jul 2023 05:41:44 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>几何深度学习：让物理世界拥有AI</title>
+      <link>https://pattern.swarma.org/article/243</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/243</guid>
+      <pubDate>Mon, 10 Jul 2023 07:56:54 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>深度学习与分子学习结合：从拓扑、几何和文本角度进行解析</title>
+      <link>https://pattern.swarma.org/article/242</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/242</guid>
+      <pubDate>Sat, 01 Jul 2023 09:03:45 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>因果涌现读书会第三季参考文献列表</title>
+      <link>https://pattern.swarma.org/article/241</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/241</guid>
+      <pubDate>Wed, 28 Jun 2023 11:42:16 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>范长俊：组合优化问题的机器学习求解</title>
+      <link>https://pattern.swarma.org/article/240</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/240</guid>
+      <pubDate>Wed, 28 Jun 2023 00:49:36 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>思考生命复杂性的新视角：从组装理论到梯径理论</title>
+      <link>https://pattern.swarma.org/article/238</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/238</guid>
+      <pubDate>Thu, 15 Jun 2023 05:08:33 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>Subgraph GNN 最新研究梳理</title>
+      <link>https://pattern.swarma.org/article/237</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/237</guid>
+      <pubDate>Wed, 31 May 2023 03:05:10 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>GFlowNet 最新研究梳理｜基于网络采样扩展搜索空间</title>
+      <link>https://pattern.swarma.org/article/234</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/234</guid>
+      <pubDate>Fri, 19 May 2023 07:22:27 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>城市科学领域经典、前沿文献推荐清单</title>
+      <link>https://pattern.swarma.org/article/233</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/233</guid>
+      <pubDate>Thu, 11 May 2023 14:58:28 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>探索复杂性之旅 | 集智俱乐部推荐书单24本</title>
+      <link>https://pattern.swarma.org/article/232</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/232</guid>
+      <pubDate>Fri, 28 Apr 2023 13:52:30 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>图神经网络初探</title>
+      <link>https://pattern.swarma.org/article/229</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/229</guid>
+      <pubDate>Mon, 10 Apr 2023 06:33:11 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>识别疫情前后全国人口流动网络并识别空间格局</title>
+      <link>https://pattern.swarma.org/article/228</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/228</guid>
+      <pubDate>Thu, 16 Mar 2023 04:17:51 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>信息论：复杂性科学的基础</title>
+      <link>https://pattern.swarma.org/article/227</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/227</guid>
+      <pubDate>Tue, 14 Mar 2023 14:29:47 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>图神经网络与组合优化文献汇总</title>
+      <link>https://pattern.swarma.org/article/226</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/226</guid>
+      <pubDate>Thu, 09 Mar 2023 08:54:14 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>AI + Science 读书会阅读清单</title>
+      <link>https://pattern.swarma.org/article/222</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/222</guid>
+      <pubDate>Thu, 02 Mar 2023 03:08:40 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>后 ChatGPT读书会 ｜ 推荐资料汇总</title>
+      <link>https://pattern.swarma.org/article/221</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/221</guid>
+      <pubDate>Wed, 22 Feb 2023 07:12:22 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>因果表征学习 | 因果科学读书会第四季资源列表</title>
+      <link>https://pattern.swarma.org/article/218</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/218</guid>
+      <pubDate>Sat, 03 Dec 2022 03:59:15 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>混沌科学系列科普课程推荐资料</title>
+      <link>https://pattern.swarma.org/article/215</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/215</guid>
+      <pubDate>Wed, 16 Nov 2022 07:35:16 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>NeuroAI 领域经典、前沿文献推荐清单</title>
+      <link>https://pattern.swarma.org/article/214</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/214</guid>
+      <pubDate>Mon, 07 Nov 2022 05:44:33 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>渐变、循环与分层的隐喻：从埃舍尔到生命起源（五）层次</title>
+      <link>https://pattern.swarma.org/article/213</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/213</guid>
+      <pubDate>Tue, 01 Nov 2022 17:57:15 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>渐变、循环与分层的隐喻：从埃舍尔到生命起源（四）复制</title>
+      <link>https://pattern.swarma.org/article/212</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/212</guid>
+      <pubDate>Tue, 01 Nov 2022 17:56:00 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>渐变、循环与分层的隐喻：从埃舍尔到生命起源（三）循环</title>
+      <link>https://pattern.swarma.org/article/211</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/211</guid>
+      <pubDate>Tue, 01 Nov 2022 17:45:08 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>渐变、循环与层次的隐喻：从埃舍尔到生命起源（二）渐变</title>
+      <link>https://pattern.swarma.org/article/210</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/210</guid>
+      <pubDate>Wed, 26 Oct 2022 09:53:48 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>渐变、循环与层次的隐喻：从埃舍尔到生命起源（一）埃舍尔</title>
+      <link>https://pattern.swarma.org/article/208</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/208</guid>
+      <pubDate>Fri, 21 Oct 2022 08:58:14 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>怪圈问题的研习笔记</title>
+      <link>https://pattern.swarma.org/article/207</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/207</guid>
+      <pubDate>Fri, 21 Oct 2022 03:07:22 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>揭示高阶引文网络中期刊的特征</title>
+      <link>https://pattern.swarma.org/article/206</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/206</guid>
+      <pubDate>Thu, 20 Oct 2022 03:33:07 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>高阶交互耦合相振子同步涌现统计力学研究</title>
+      <link>https://pattern.swarma.org/article/205</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/205</guid>
+      <pubDate>Thu, 13 Oct 2022 14:42:52 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>什么是高阶图表征学习？</title>
+      <link>https://pattern.swarma.org/article/204</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/204</guid>
+      <pubDate>Wed, 12 Oct 2022 09:32:08 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>高阶网络读书会第一模块基础理论的概念汇总</title>
+      <link>https://pattern.swarma.org/article/202</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/202</guid>
+      <pubDate>Tue, 20 Sep 2022 09:25:14 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>振幅-频率关联导致耦合振子系统中的一阶爆炸相变</title>
+      <link>https://pattern.swarma.org/article/201</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/201</guid>
+      <pubDate>Tue, 13 Sep 2022 02:49:26 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>基于依赖关系的高阶网络建模</title>
+      <link>https://pattern.swarma.org/article/200</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/200</guid>
+      <pubDate>Thu, 08 Sep 2022 09:54:45 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>耦合非线性振子同步涌现和一级相变的精确判据</title>
+      <link>https://pattern.swarma.org/article/199</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/199</guid>
+      <pubDate>Tue, 06 Sep 2022 09:58:19 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>高阶网络读书会第一期笔记整理 | Ginestra Bianconi：高阶网络的拓扑结构与动力学</title>
+      <link>https://pattern.swarma.org/article/196</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/196</guid>
+      <pubDate>Mon, 08 Aug 2022 04:54:59 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>单纯复形重构：如何从数据中发现复杂网络潜在高阶关系？</title>
+      <link>https://pattern.swarma.org/article/195</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/195</guid>
+      <pubDate>Thu, 04 Aug 2022 05:21:27 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>神经动力学模型读书会学习资料梳理</title>
+      <link>https://pattern.swarma.org/article/193</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/193</guid>
+      <pubDate>Tue, 02 Aug 2022 13:31:39 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>信息分解及其在复杂系统中的应用 | 因果涌现第二季2期笔记</title>
+      <link>https://pattern.swarma.org/article/192</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/192</guid>
+      <pubDate>Mon, 25 Jul 2022 00:07:53 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>因果涌现第二季读书会第一部分知识梳理</title>
+      <link>https://pattern.swarma.org/article/191</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/191</guid>
+      <pubDate>Mon, 18 Jul 2022 03:01:09 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>复杂经济学第二季框架介绍与论文清单</title>
+      <link>https://pattern.swarma.org/article/190</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/190</guid>
+      <pubDate>Mon, 27 Jun 2022 01:31:19 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>网络控制及其在神经调控中的应用</title>
+      <link>https://pattern.swarma.org/article/188</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/188</guid>
+      <pubDate>Mon, 20 Jun 2022 09:12:28 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>动力学模型在脑重大疾病中的临床应用——以癫痫为例</title>
+      <link>https://pattern.swarma.org/article/187</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/187</guid>
+      <pubDate>Mon, 06 Jun 2022 01:22:22 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>神经电极的发展历程</title>
+      <link>https://pattern.swarma.org/article/186</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/186</guid>
+      <pubDate>Mon, 06 Jun 2022 00:57:00 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>癫痫和癫痫外科研究中的动力学模型</title>
+      <link>https://pattern.swarma.org/article/185</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/185</guid>
+      <pubDate>Mon, 30 May 2022 01:22:40 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>因果与机器学习能破解涌现之谜吗？| 因果涌现读书会第二季第1期笔记</title>
+      <link>https://pattern.swarma.org/article/184</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/184</guid>
+      <pubDate>Fri, 27 May 2022 07:21:49 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>理解大脑网络的量子场论方法与层次结构模型</title>
+      <link>https://pattern.swarma.org/article/183</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/183</guid>
+      <pubDate>Fri, 27 May 2022 01:45:03 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>【计算社会科学读书会第二季】论文列表</title>
+      <link>https://pattern.swarma.org/article/182</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/182</guid>
+      <pubDate>Mon, 16 May 2022 08:50:41 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>高阶网络读书会文献阅读清单</title>
+      <link>https://pattern.swarma.org/article/181</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/181</guid>
+      <pubDate>Mon, 16 May 2022 07:43:52 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>睡眠调控动力学机制研究</title>
+      <link>https://pattern.swarma.org/article/180</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/180</guid>
+      <pubDate>Mon, 16 May 2022 01:06:04 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>术语提取算法综述</title>
+      <link>https://pattern.swarma.org/article/179</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/179</guid>
+      <pubDate>Fri, 13 May 2022 09:19:53 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>多尺度脑网络设计规则入门</title>
+      <link>https://pattern.swarma.org/article/178</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/178</guid>
+      <pubDate>Tue, 10 May 2022 03:23:32 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>网络式组织入门路径</title>
+      <link>https://pattern.swarma.org/article/177</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/177</guid>
+      <pubDate>Tue, 03 May 2022 01:40:52 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>因果涌现读书会第二季参考文献列表</title>
+      <link>https://pattern.swarma.org/article/176</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/176</guid>
+      <pubDate>Thu, 28 Apr 2022 15:44:42 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>生命起源假说的辅酶视角(文献整理)</title>
+      <link>https://pattern.swarma.org/article/174</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/174</guid>
+      <pubDate>Thu, 21 Apr 2022 09:31:42 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>理解大脑临界与混沌的神经动力学场论模型文献解读</title>
+      <link>https://pattern.swarma.org/article/171</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/171</guid>
+      <pubDate>Mon, 18 Apr 2022 00:45:20 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>大尺度脑活动的动力学模型</title>
+      <link>https://pattern.swarma.org/article/169</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/169</guid>
+      <pubDate>Mon, 11 Apr 2022 08:28:20 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>更新中|《第三代系统论》读书笔记</title>
+      <link>https://pattern.swarma.org/article/167</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/167</guid>
+      <pubDate>Mon, 11 Apr 2022 07:20:05 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>循环神经网络的动力学平均场理论</title>
+      <link>https://pattern.swarma.org/article/166</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/166</guid>
+      <pubDate>Mon, 11 Apr 2022 06:08:54 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>神经元模型：从离子通道到计算</title>
+      <link>https://pattern.swarma.org/article/165</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/165</guid>
+      <pubDate>Wed, 06 Apr 2022 00:56:18 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>复杂网络的数学建模与应用 | 网络科学第三期学习资料</title>
+      <link>https://pattern.swarma.org/article/148</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/148</guid>
+      <pubDate>Sat, 25 Sep 2021 01:23:29 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>复杂系统自动建模三思营参考文献汇总</title>
+      <link>https://pattern.swarma.org/article/147</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/147</guid>
+      <pubDate>Fri, 24 Sep 2021 08:30:44 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>Out-of-Distribution Generalization: Categories and Paper List</title>
+      <link>https://pattern.swarma.org/article/144</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/144</guid>
+      <pubDate>Thu, 02 Sep 2021 14:49:27 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>Netlogo系列笔记：2、初识Netlogo</title>
+      <link>https://pattern.swarma.org/article/142</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/142</guid>
+      <pubDate>Tue, 31 Aug 2021 10:53:44 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>CCF因果科学暑期课程 | 会议纪要</title>
+      <link>https://pattern.swarma.org/article/141</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/141</guid>
+      <pubDate>Wed, 25 Aug 2021 09:14:05 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>神经元、睡眠与意识的自组织临界：大脑动力学视角</title>
+      <link>https://pattern.swarma.org/article/140</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/140</guid>
+      <pubDate>Sun, 22 Aug 2021 15:29:36 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>因果科学读书会第二季主题论文合集</title>
+      <link>https://pattern.swarma.org/article/138</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/138</guid>
+      <pubDate>Fri, 06 Aug 2021 06:04:26 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>复杂系统的计算实验方法——重要经典文献推荐</title>
+      <link>https://pattern.swarma.org/article/137</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/137</guid>
+      <pubDate>Wed, 04 Aug 2021 09:57:26 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>因果涌现读书会参考文献汇总列表</title>
+      <link>https://pattern.swarma.org/article/136</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/136</guid>
+      <pubDate>Tue, 03 Aug 2021 02:48:27 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>时序数据表示学习路径</title>
+      <link>https://pattern.swarma.org/article/133</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/133</guid>
+      <pubDate>Mon, 19 Jul 2021 14:17:23 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>网络科学学习路径</title>
+      <link>https://pattern.swarma.org/article/132</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/132</guid>
+      <pubDate>Fri, 16 Jul 2021 01:29:41 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>Complexity^AI: 复杂系统自动建模综述与展望2021</title>
+      <link>https://pattern.swarma.org/article/131</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/131</guid>
+      <pubDate>Wed, 07 Jul 2021 22:55:40 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>基于深度学习的数据驱动建模最新文章2021.6前</title>
+      <link>https://pattern.swarma.org/article/130</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/130</guid>
+      <pubDate>Thu, 03 Jun 2021 03:04:07 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>范畴论相关参考资料</title>
+      <link>https://pattern.swarma.org/article/129</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/129</guid>
+      <pubDate>Mon, 31 May 2021 09:28:35 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>”复杂系统自动建模——企业发展建模与预测“读书会论文列表</title>
+      <link>https://pattern.swarma.org/article/125</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/125</guid>
+      <pubDate>Tue, 06 Apr 2021 03:38:28 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>人类行为研究经典论文推送</title>
+      <link>https://pattern.swarma.org/article/124</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/124</guid>
+      <pubDate>Tue, 02 Mar 2021 05:12:01 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>探索网络动力学——网络科学第二期</title>
+      <link>https://pattern.swarma.org/article/122</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/122</guid>
+      <pubDate>Sun, 21 Feb 2021 06:38:29 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>复杂性科学年度十大热门课程发布，2021什么值得学</title>
+      <link>https://pattern.swarma.org/article/121</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/121</guid>
+      <pubDate>Sat, 23 Jan 2021 18:46:28 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>网络科学集智课堂第二期：网络科学导论，导师推荐资料</title>
+      <link>https://pattern.swarma.org/article/120</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/120</guid>
+      <pubDate>Fri, 22 Jan 2021 03:03:30 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>生命复杂系统动力学相关论文清单——北师大李辉教授讲座</title>
+      <link>https://pattern.swarma.org/article/119</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/119</guid>
+      <pubDate>Sat, 16 Jan 2021 06:29:14 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>因果纠缠学术年会——理解复杂性：宇宙、生命、意识的思考与度量分论坛</title>
+      <link>https://pattern.swarma.org/article/116</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/116</guid>
+      <pubDate>Thu, 31 Dec 2020 08:10:29 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>因果纠缠集智年会——因果推荐系统分论坛</title>
+      <link>https://pattern.swarma.org/article/114</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/114</guid>
+      <pubDate>Thu, 31 Dec 2020 08:09:29 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>因果纠缠 | 集智俱乐部第六届学术年会</title>
+      <link>https://pattern.swarma.org/article/113</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/113</guid>
+      <pubDate>Thu, 31 Dec 2020 07:25:01 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>因果纠缠集智年会——学术快闪报告</title>
+      <link>https://pattern.swarma.org/article/112</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/112</guid>
+      <pubDate>Tue, 29 Dec 2020 13:22:47 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>因果纠缠学术年会——图网络与时序预测分论坛</title>
+      <link>https://pattern.swarma.org/article/111</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/111</guid>
+      <pubDate>Tue, 29 Dec 2020 12:11:40 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>规模理论(Scaling Law)：从入门到精通的文献荟萃</title>
+      <link>https://pattern.swarma.org/article/108</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/108</guid>
+      <pubDate>Thu, 17 Dec 2020 02:48:32 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>建模网络的生长与演化相关文献</title>
+      <link>https://pattern.swarma.org/article/107</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/107</guid>
+      <pubDate>Thu, 08 Oct 2020 08:05:11 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>图网络经典论文解读内部读书会</title>
+      <link>https://pattern.swarma.org/article/106</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/106</guid>
+      <pubDate>Thu, 17 Sep 2020 13:03:09 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>集智 - 凯风研读营参考文献合集</title>
+      <link>https://pattern.swarma.org/article/102</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/102</guid>
+      <pubDate>Thu, 27 Aug 2020 08:06:14 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>巴拉巴西网络科学课程导师简介与代表论文</title>
+      <link>https://pattern.swarma.org/article/94</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/94</guid>
+      <pubDate>Mon, 10 Aug 2020 08:11:10 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>搭建图与网络之间的桥梁</title>
+      <link>https://pattern.swarma.org/article/93</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/93</guid>
+      <pubDate>Sun, 09 Aug 2020 09:21:20 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>网络科学经典文献与学习资料推荐（请收藏）</title>
+      <link>https://pattern.swarma.org/article/92</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/92</guid>
+      <pubDate>Thu, 30 Jul 2020 11:51:30 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>“面向复杂系统的人工智能”读书会分享顺序和知识结构</title>
+      <link>https://pattern.swarma.org/article/89</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/89</guid>
+      <pubDate>Fri, 24 Jul 2020 06:39:58 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>2020北师大复杂系统“云”夏令营讲座资料合集</title>
+      <link>https://pattern.swarma.org/article/86</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/86</guid>
+      <pubDate>Thu, 09 Jul 2020 13:58:15 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>中国计算与认知神经科学会议2020：主讲与报告介绍</title>
+      <link>https://pattern.swarma.org/article/82</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/82</guid>
+      <pubDate>Sat, 27 Jun 2020 01:20:14 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>“复杂系统视角下的科学学读书会"讨论记录</title>
+      <link>https://pattern.swarma.org/article/81</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/81</guid>
+      <pubDate>Tue, 23 Jun 2020 07:23:40 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>分形的学习路径</title>
+      <link>https://pattern.swarma.org/article/80</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/80</guid>
+      <pubDate>Tue, 23 Jun 2020 01:07:28 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>面向复杂系统的人工智能读书会论文列表</title>
+      <link>https://pattern.swarma.org/article/79</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/79</guid>
+      <pubDate>Mon, 22 Jun 2020 14:21:42 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>JPhys Complexity: 复杂系统网络研讨会参考资料列表</title>
+      <link>https://pattern.swarma.org/article/74</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/74</guid>
+      <pubDate>Fri, 12 Jun 2020 09:30:07 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>大尺度网络重构领域入门必读</title>
+      <link>https://pattern.swarma.org/article/73</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/73</guid>
+      <pubDate>Wed, 10 Jun 2020 07:05:36 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>企业研究领域入门必读</title>
+      <link>https://pattern.swarma.org/article/72</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/72</guid>
+      <pubDate>Wed, 10 Jun 2020 03:29:34 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>北京师范大学张江教授：如何做好科研？</title>
+      <link>https://pattern.swarma.org/article/71</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/71</guid>
+      <pubDate>Wed, 10 Jun 2020 01:26:30 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>复杂系统和复杂性简介——经典、前沿论文推荐</title>
+      <link>https://pattern.swarma.org/article/66</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/66</guid>
+      <pubDate>Sun, 17 May 2020 07:53:23 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>Physics Reports计算网络生物学长文综述：数据、模型和应用</title>
+      <link>https://pattern.swarma.org/article/65</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/65</guid>
+      <pubDate>Fri, 15 May 2020 11:01:54 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>复杂系统先驱 罗伯特·梅 发表论文合集</title>
+      <link>https://pattern.swarma.org/article/62</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/62</guid>
+      <pubDate>Fri, 01 May 2020 09:46:08 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>Valerio Lucarini 的气候科学和统计物理文献推荐</title>
+      <link>https://pattern.swarma.org/article/61</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/61</guid>
+      <pubDate>Wed, 29 Apr 2020 01:57:21 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>网络重构论文列表</title>
+      <link>https://pattern.swarma.org/article/60</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/60</guid>
+      <pubDate>Mon, 27 Apr 2020 02:55:43 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>[译] 我们可以从科学的角度解读意识吗？| Science 综述</title>
+      <link>https://pattern.swarma.org/article/59</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/59</guid>
+      <pubDate>Wed, 22 Apr 2020 14:38:19 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>从数据到结构——动力学网络重构综述</title>
+      <link>https://pattern.swarma.org/article/57</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/57</guid>
+      <pubDate>Sat, 18 Apr 2020 11:25:58 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>论文集--网络上的多主体计算经济与人工股票市场</title>
+      <link>https://pattern.swarma.org/article/54</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/54</guid>
+      <pubDate>Fri, 10 Apr 2020 03:32:36 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>复杂系统中多主体建模入门路径</title>
+      <link>https://pattern.swarma.org/article/53</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/53</guid>
+      <pubDate>Thu, 09 Apr 2020 06:57:27 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>经典综述回顾：计算社会科学的5种研究方法</title>
+      <link>https://pattern.swarma.org/article/49</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/49</guid>
+      <pubDate>Sun, 29 Mar 2020 12:31:54 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>网络上的CNN-图卷积神经网络模型</title>
+      <link>https://pattern.swarma.org/article/42</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/42</guid>
+      <pubDate>Thu, 12 Mar 2020 02:56:38 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>计算社会经济学"长文综述：洞察社会经济发展的跨学科新视角</title>
+      <link>https://pattern.swarma.org/article/41</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/41</guid>
+      <pubDate>Tue, 10 Mar 2020 02:27:40 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>复杂系统自动建模必读论文列表</title>
+      <link>https://pattern.swarma.org/article/20</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/20</guid>
+      <pubDate>Thu, 13 Feb 2020 03:14:08 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>复杂系统的层级结构：一个跨学科研究的典范</title>
+      <link>https://pattern.swarma.org/article/5</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/5</guid>
+      <pubDate>Thu, 31 Oct 2019 01:02:48 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>网络科学诞生记：发源、合流与分岔</title>
+      <link>https://pattern.swarma.org/article/4</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/4</guid>
+      <pubDate>Thu, 31 Oct 2019 00:58:52 GMT</pubDate>
+      <category>Article</category>
+    </item>
+    <item>
+      <title>基于相关性的网络重构方法</title>
+      <link>https://pattern.swarma.org/article/1</link>
+      <guid isPermaLink="true">https://pattern.swarma.org/article/1</guid>
+      <pubDate>Wed, 23 Oct 2019 01:23:43 GMT</pubDate>
+      <category>Article</category>
+    </item>
+  </channel>
+</rss>

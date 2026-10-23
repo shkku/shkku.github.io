@@ -4,6 +4,7 @@ This repository serves both the normal Hugo blog and independent RSS feeds throu
 
 - Feed directory: <https://shkku.github.io/feeds/>
 - Apollo Research: <https://shkku.github.io/feeds/apollo-science.xml>
+- Pattern articles and papers: <https://shkku.github.io/feeds/pattern-swarma.xml>
 - Blog: <https://shkku.github.io/blog/>
 - Blog RSS: <https://shkku.github.io/blog/index.xml>
 
@@ -17,7 +18,7 @@ GitHub may delay scheduled runs, and [automatically disables schedules in public
 
 ## Add another feed
 
-1. Inspect the source's HTML. The included scraper supports server-rendered HTML lists, CSS selectors and optional next-page links. JavaScript-only pages, APIs, authentication and unusual dates need an additional scraper implementation.
+1. Inspect the source's HTML. The included scraper supports server-rendered HTML lists, CSS selectors and optional next-page links. JavaScript-only pages, APIs, authentication and unusual dates need an additional scraper implementation. Pattern already has a dedicated public-API collector selected with `kind: pattern`.
 2. Append an object to `feeds/sources.json`, using a unique lowercase hyphenated `id`:
 
    ```json
@@ -64,6 +65,16 @@ The workflow caches `.feed-cache/` between runs, including XML history and last-
 ## Apollo scope
 
 The initial feed was verified against the live `/science` listing on 2026-10-23: 26 unique entries across three pages, including the pinned research agenda. Repeated pinned entries are deduplicated. Separate system-card panels, general blog posts, and science URLs absent from the All research listing are excluded. The feed is unofficial and attributes its source in both the channel description and directory.
+
+## Pattern scope
+
+`pattern-swarma.xml` combines the public **Articles** listing (`/articles`, all paginated entries) with curated papers from **Complexity Express** (`/top_issue`) and **AI+Science**. It excludes WeChat posts, reading groups, learning paths, the arXiv daily stream, and the user-recommended paper stream. The original Chinese article titles and English paper titles are preserved; links point to Pattern's `/article/<id>` and `/paper/<uuid>` pages.
+
+Each refresh fetches the complete article listing and a rolling 90-day window of curated paper publication dates. Existing collected items remain in the feed as they age beyond that window. The AI+Science endpoint currently returns an empty list; the collector also checks it on future refreshes. The initial live scrape on 2026-10-23 returned 220 articles and 206 curated papers.
+
+Article publication dates use `created_at`, with the API's naive timestamps interpreted as Asia/Shanghai (an explicit timezone assumption). Paper dates use `submitTime` at midnight UTC; these are original publication dates, not the time Pattern curated the paper. Edits preserve the same original URL as the RSS GUID.
+
+The collector calls the same public API paths referenced by the website's shipped JavaScript: `GET https://api.swarma.org/api/index/learn_paths?serious=0&...` and the read-only listing query `PUT https://api.swarma.org/api/express/top_issue` with date/category filters. Neither needs login credentials. Missing article pages, changed pagination totals, malformed dates or API errors preserve the prior complete feed during deployment rather than publishing only half of the combined source. Recorded fixtures retain only ids, titles, dates and pagination metadata.
 
 ## Keep blogging
 

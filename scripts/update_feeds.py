@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Build independent RSS feeds from paginated HTML listings; see feeds/README.md."""
+"""Build independent RSS feeds from public HTML and API listings; see feeds/README.md."""
 from __future__ import annotations
 
 import argparse
 from dataclasses import dataclass
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime, parsedate_to_datetime
 import json
 from pathlib import Path
@@ -15,6 +15,8 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import urldefrag, urljoin, urlsplit
 from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
+from uuid import UUID
+from zoneinfo import ZoneInfo
 
 from bs4 import BeautifulSoup
 
@@ -40,13 +42,18 @@ def http_url(url: str) -> str:
     return url
 
 
-def fetch(url: str) -> str:
+def fetch_document(url: str, media_type: str, method="GET", payload=None) -> str:
     for attempt in range(3):
         try:
-            request = Request(http_url(url), headers={"User-Agent": USER_AGENT})
+            headers = {"User-Agent": USER_AGENT, "Accept": media_type}
+            body = None
+            if payload is not None:
+                headers["Content-Type"] = "application/json"
+                body = json.dumps(payload).encode("utf-8")
+            request = Request(http_url(url), data=body, headers=headers, method=method)
             with urlopen(request, timeout=30) as response:
-                if "text/html" not in response.headers.get("Content-Type", ""):
-                    raise ValueError(f"Expected HTML from {url}")
+                if media_type not in response.headers.get("Content-Type", ""):
+                    raise ValueError(f"Expected {media_type} from {url}")
                 return response.read().decode("utf-8")
         except (HTTPError, URLError, TimeoutError):
             if attempt == 2:
@@ -55,7 +62,15 @@ def fetch(url: str) -> str:
     raise AssertionError("unreachable")
 
 
-def collect(source: dict, fetch_page=fetch) -> list[Item]:
+def fetch(url: str) -> str:
+    return fetch_document(url, "text/html")
+
+
+def fetch_json(url: str, method="GET", payload=None):
+    return json.loads(fetch_document(url, "application/json", method, payload))
+
+
+def collect_html(source: dict, fetch_page=fetch) -> list[Item]:
     """Treat missing cards, bad dates and incomplete pagination as errors."""
     selectors = source["selectors"]
     current = http_url(source["source_url"])
@@ -102,6 +117,87 @@ def collect(source: dict, fetch_page=fetch) -> list[Item]:
         if (parts.scheme, parts.netloc, parts.path) != (origin.scheme, origin.netloc, origin.path):
             raise ValueError(f"Pagination left the source listing: {current}")
     raise ValueError("Pagination exceeded 50 pages")
+
+
+def collect_pattern(source: dict, request_json=fetch_json, now=None) -> list[Item]:
+    """Pattern's public articles and curated Complexity/AI+Science papers."""
+    page_size = source.get("articles_page_size", 50)
+    lookback = source.get("papers_lookback_days", 90)
+    if not isinstance(page_size, int) or not 1 <= page_size <= 50:
+        raise ValueError("Pattern article page size must be 1..50")
+    if not isinstance(lookback, int) or not 1 <= lookback <= 365:
+        raise ValueError("Pattern paper lookback must be 1..365 days")
+    origin = "https://pattern.swarma.org"
+    api = "https://api.swarma.org/api"
+    items: dict[str, Item] = {}
+    expected_total = None
+    last_page = None
+    for page in range(1, 51):
+        response = request_json(
+            f"{api}/index/learn_paths?serious=0&substr_len=140&page={page}&per_page={page_size}"
+        )
+        if not isinstance(response, dict) or not isinstance(response.get("data"), list):
+            raise ValueError("Pattern articles response has no data list")
+        meta = response.get("meta", {})
+        if (meta.get("current_page") != page
+                or not isinstance(meta.get("last_page"), int)
+                or not 1 <= meta["last_page"] <= 50
+                or not isinstance(meta.get("total"), int)):
+            raise ValueError("Invalid Pattern article pagination metadata")
+        if page == 1:
+            expected_total, last_page = meta["total"], meta["last_page"]
+        if (meta["total"], meta["last_page"]) != (expected_total, last_page):
+            raise ValueError("Pattern article listing changed during pagination")
+        for row in response["data"]:
+            article_id = row["id"]
+            title = row["title"].strip()
+            if not isinstance(article_id, int) or article_id < 1 or not title:
+                raise ValueError("Invalid Pattern article id or title")
+            url = f"{origin}/article/{article_id}"
+            published = datetime.strptime(row["created_at"], "%Y-%m-%d %H:%M:%S")
+            published = published.replace(tzinfo=ZoneInfo("Asia/Shanghai")).astimezone(timezone.utc)
+            item = Item(title, url, published, ("Article",))
+            if url in items:
+                raise ValueError(f"Repeated Pattern article across pages: {url}")
+            items[url] = item
+        if page == last_page:
+            break
+    if not items or len(items) != expected_total:
+        raise ValueError("Incomplete Pattern article listing")
+
+    today = (now or datetime.now(timezone.utc)).astimezone(ZoneInfo("Asia/Shanghai")).date()
+    start = (today - timedelta(days=lookback)).isoformat()
+    for category, label in (("complexity", "Complexity"), ("ai+science", "AI+Science")):
+        # The website uses PUT for this read-only, date-filtered listing query.
+        papers = request_json(f"{api}/express/top_issue", method="PUT", payload={
+            "start": start, "end": today.isoformat(), "top_issue_category": category,
+        })
+        if not isinstance(papers, list):
+            raise ValueError("Pattern papers response is not a list")
+        for row in papers:
+            paper_id = str(UUID(row["uuid"]))
+            title = row["title"].strip()
+            if not title:
+                raise ValueError("Empty Pattern paper title")
+            url = f"{origin}/paper/{paper_id}"
+            published = datetime.strptime(row["submitTime"], "%Y-%m-%d").replace(tzinfo=timezone.utc)
+            categories = ("Paper", label)
+            if url in items:
+                previous = items[url]
+                if (previous.title, previous.published) != (title, published):
+                    raise ValueError(f"Conflicting Pattern paper: {url}")
+                categories = tuple(dict.fromkeys((*previous.categories, *categories)))
+            items[url] = Item(title, url, published, categories)
+    return sorted(items.values(), key=lambda i: (i.published, i.url), reverse=True)
+
+
+def collect(source: dict, fetch_page=None) -> list[Item]:
+    kind = source.get("kind", "html_listing")
+    if kind == "html_listing":
+        return collect_html(source, fetch_page or fetch)
+    if kind == "pattern":
+        return collect_pattern(source, fetch_page or fetch_json)
+    raise ValueError(f"Unknown feed source kind: {kind}")
 
 
 def read_items(data: bytes) -> list[Item]:
@@ -153,7 +249,7 @@ def atomic_write(path: Path, data: bytes) -> None:
 
 
 def update(source: dict, base_url: str, cache_dir: Path, keep_on_error: bool,
-           fetch_page=fetch) -> dict:
+           fetch_page=None) -> dict:
     feed_id = source["id"]
     if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", feed_id):
         raise ValueError(f"Invalid feed id: {feed_id}")

@@ -13,5 +13,15 @@
       "category": "[fs-cmsfilter-field='filter']",
       "next": ".fidings_items-wrapper .w-pagination-next"
     }
+  },
+  {
+    "id": "pattern-swarma",
+    "kind": "pattern",
+    "title": "Pattern articles and papers feed",
+    "description": "Unofficial feed of articles and curated Complexity and AI+Science papers from Swarma Pattern (集智斑图). Paper refreshes cover a rolling 90-day publication window; previously collected entries are retained. Links lead to original Pattern pages.",
+    "source_url": "https://pattern.swarma.org/",
+    "language": "zh-CN",
+    "articles_page_size": 50,
+    "papers_lookback_days": 90
   }
 ]
