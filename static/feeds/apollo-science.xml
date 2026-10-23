@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Apollo Research — Science (unofficial)</title>
+    <link>https://www.apolloresearch.ai/science</link>
+    <description>Unofficial feed of Apollo Research's All research listing, including the research agenda. Separate system-card panels and the general blog are excluded. Titles, dates and links belong to Apollo Research.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 23 Oct 2026 10:06:23 GMT</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+    <ttl>360</ttl>
+    <generator>HomemadeRSS</generator>
+    <atom:link href="https://shkku.github.io/feeds/apollo-science.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GLM-5.3 Sometimes Considers How Train-Time Actions Shape Future Behavior</title>
+      <link>https://www.apolloresearch.ai/science/update-aware-reasoning-glm-5-3</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/update-aware-reasoning-glm-5-3</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Evaluations</category>
+    </item>
+    <item>
+      <title>Measuring Reward-Seeking via Contrastive Belief Updates</title>
+      <link>https://www.apolloresearch.ai/science/measuring-reward-seeking-via-contrastive-belief-updates</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/measuring-reward-seeking-via-contrastive-belief-updates</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Science of Scheming</category>
+    </item>
+    <item>
+      <title>We need 3rd party Training-Run Evaluations</title>
+      <link>https://www.apolloresearch.ai/science/we-need-3rd-party-training-run-evaluations</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/we-need-3rd-party-training-run-evaluations</guid>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Science of Scheming</category>
+    </item>
+    <item>
+      <title>We Need A Science of Scheming</title>
+      <link>https://www.apolloresearch.ai/science/science-of-scheming</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/science-of-scheming</guid>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+      <category>Science of Scheming</category>
+    </item>
+    <item>
+      <title>Stress Testing Deliberative Alignment for Anti-Scheming Training</title>
+      <link>https://www.apolloresearch.ai/science/stress-testing-deliberative-alignment-for-anti-scheming-training</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/stress-testing-deliberative-alignment-for-anti-scheming-training</guid>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
+      <category>Science of Scheming</category>
+    </item>
+    <item>
+      <title>Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety</title>
+      <link>https://www.apolloresearch.ai/science/chain-of-thought-monitorability-a-new-and-fragile-opportunity-for-ai-safety</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/chain-of-thought-monitorability-a-new-and-fragile-opportunity-for-ai-safety</guid>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
+      <category>Evaluations</category>
+    </item>
+    <item>
+      <title>Research Note: Our scheming precursor evals had limited predictive power for our in-context scheming evals</title>
+      <link>https://www.apolloresearch.ai/science/research-note-our-scheming-precursor-evals-had-limited-predictive-power-for-our-in-context-scheming-evals</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/research-note-our-scheming-precursor-evals-had-limited-predictive-power-for-our-in-context-scheming-evals</guid>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
+      <category>Evaluations</category>
+      <category>Notes</category>
+    </item>
+    <item>
+      <title>More Capable Models Are Better At In-Context Scheming</title>
+      <link>https://www.apolloresearch.ai/science/more-capable-models-are-better-at-in-context-scheming</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/more-capable-models-are-better-at-in-context-scheming</guid>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
+      <category>Evaluations</category>
+    </item>
+    <item>
+      <title>Claude Sonnet 3.7 (often) knows when it’s in alignment evaluations</title>
+      <link>https://www.apolloresearch.ai/science/claude-sonnet-37-often-knows-when-its-in-alignment-evaluations</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/claude-sonnet-37-often-knows-when-its-in-alignment-evaluations</guid>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
+      <category>Evaluations</category>
+      <category>Notes</category>
+    </item>
+    <item>
+      <title>Forecasting Frontier Language Model Agent Capabilities</title>
+      <link>https://www.apolloresearch.ai/science/forecasting-frontier-language-model-agent-capabilities</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/forecasting-frontier-language-model-agent-capabilities</guid>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
+      <category>Evaluations</category>
+    </item>
+    <item>
+      <title>Interpretability in Parameter Space: Minimizing Mechanistic Description Length with Attribution-based Parameter Decomposition</title>
+      <link>https://www.apolloresearch.ai/science/interpretability-in-parameter-space-minimizing-mechanistic-description-length-with-attribution-based-parameter-decomposition</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/interpretability-in-parameter-space-minimizing-mechanistic-description-length-with-attribution-based-parameter-decomposition</guid>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
+      <category>Interpretability</category>
+    </item>
+    <item>
+      <title>Detecting Strategic Deception Using Linear Probes</title>
+      <link>https://www.apolloresearch.ai/science/detecting-strategic-deception-using-linear-probes</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/detecting-strategic-deception-using-linear-probes</guid>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
+      <category>Interpretability</category>
+    </item>
+    <item>
+      <title>Demo Example - Scheming Reasoning Evaluations</title>
+      <link>https://www.apolloresearch.ai/science/demo-example-scheming-reasoning-evaluations</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/demo-example-scheming-reasoning-evaluations</guid>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+      <category>Evaluations</category>
+    </item>
+    <item>
+      <title>Frontier Models are Capable of In-Context Scheming</title>
+      <link>https://www.apolloresearch.ai/science/frontier-models-are-capable-of-incontext-scheming</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/frontier-models-are-capable-of-incontext-scheming</guid>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
+      <category>Evaluations</category>
+    </item>
+    <item>
+      <title>The Evals Gap</title>
+      <link>https://www.apolloresearch.ai/science/the-evals-gap</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/the-evals-gap</guid>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
+      <category>Evaluations</category>
+    </item>
+    <item>
+      <title>Towards Safety Cases For AI Scheming</title>
+      <link>https://www.apolloresearch.ai/science/towards-safety-cases-for-ai-scheming</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/towards-safety-cases-for-ai-scheming</guid>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
+      <category>Evaluations</category>
+    </item>
+    <item>
+      <title>An Opinionated Evals Reading List</title>
+      <link>https://www.apolloresearch.ai/science/an-opinionated-evals-reading-list</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/an-opinionated-evals-reading-list</guid>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 GMT</pubDate>
+      <category>Evaluations</category>
+    </item>
+    <item>
+      <title>The Local Interaction Basis: Identifying Computationally-Relevant and Sparsely Interacting Features in Neural Networks</title>
+      <link>https://www.apolloresearch.ai/science/the-local-interaction-basis-identifying-computationally-relevant-and-sparsely-interacting-features-in-neural-networks</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/the-local-interaction-basis-identifying-computationally-relevant-and-sparsely-interacting-features-in-neural-networks</guid>
+      <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+      <category>Interpretability</category>
+    </item>
+    <item>
+      <title>Identifying functionally important features with end-to-end sparse dictionary learning</title>
+      <link>https://www.apolloresearch.ai/science/identifying-functionally-important-features-with-end-to-end-sparse-dictionary-learning</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/identifying-functionally-important-features-with-end-to-end-sparse-dictionary-learning</guid>
+      <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+      <category>Interpretability</category>
+    </item>
+    <item>
+      <title>Black-Box Access is Insufficient for Rigorous AI Audits</title>
+      <link>https://www.apolloresearch.ai/science/black-box-access-is-insufficient-for-rigorous-ai-audits</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/black-box-access-is-insufficient-for-rigorous-ai-audits</guid>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
+      <category>Evaluations</category>
+    </item>
+    <item>
+      <title>We Need A ‘Science of Evals’</title>
+      <link>https://www.apolloresearch.ai/science/we-need-a-science-of-evals</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/we-need-a-science-of-evals</guid>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+      <category>Evaluations</category>
+    </item>
+    <item>
+      <title>A Starter Guide For Evals</title>
+      <link>https://www.apolloresearch.ai/science/a-starter-guide-for-evals</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/a-starter-guide-for-evals</guid>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+      <category>Evaluations</category>
+    </item>
+    <item>
+      <title>Large Language Models can Strategically Deceive their Users when Put Under Pressure</title>
+      <link>https://www.apolloresearch.ai/science/large-language-models-can-strategically-deceive-their-users-when-put-under-pressure</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/large-language-models-can-strategically-deceive-their-users-when-put-under-pressure</guid>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
+      <category>Evaluations</category>
+    </item>
+    <item>
+      <title>A Causal Framework for AI Regulation and Auditing</title>
+      <link>https://www.apolloresearch.ai/science/a-causal-framework-for-ai-regulation-and-auditing</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/a-causal-framework-for-ai-regulation-and-auditing</guid>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
+      <category>Evaluations</category>
+    </item>
+    <item>
+      <title>Our research on strategic deception presented at the UK’s AI Safety Summit</title>
+      <link>https://www.apolloresearch.ai/science/our-research-on-strategic-deception-presented-at-the-uks-ai-safety-summit</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/our-research-on-strategic-deception-presented-at-the-uks-ai-safety-summit</guid>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 GMT</pubDate>
+      <category>Evaluations</category>
+    </item>
+    <item>
+      <title>Understanding strategic deception and deceptive alignment</title>
+      <link>https://www.apolloresearch.ai/science/understanding-strategic-deception-and-deceptive-alignment</link>
+      <guid isPermaLink="true">https://www.apolloresearch.ai/science/understanding-strategic-deception-and-deceptive-alignment</guid>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
+      <category>Evaluations</category>
+    </item>
+  </channel>
+</rss>
