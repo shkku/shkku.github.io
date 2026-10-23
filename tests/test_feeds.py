@@ -120,6 +120,18 @@ class FeedTests(unittest.TestCase):
             self.assertNotEqual(first_items[0].url, second_items[0].url)
             self.assertIn(b"/feeds/another-source.xml", (cache / "another-source.xml").read_bytes())
 
+    def test_committed_archive_is_merged_even_when_cache_is_present(self):
+        with tempfile.TemporaryDirectory() as directory, patch.object(feeds, "ROOT", Path(directory)):
+            cache = Path(directory) / "cache"
+            feeds.update(SOURCE, "https://shkku.github.io", cache, False, lambda url: listing())
+            path = Path(directory) / "static/feeds/apollo-science.xml"
+            archive = feeds.collect(SOURCE, lambda url: listing(title="Archived", link="/science/archive"))
+            path.write_bytes(feeds.render(SOURCE, archive, "https://shkku.github.io",
+                                        datetime(2026, 10, 23, tzinfo=timezone.utc)))
+            feeds.update(SOURCE, "https://shkku.github.io", cache, False,
+                         lambda url: listing(title="New", link="/science/new"))
+            self.assertEqual(len(feeds.read_items(path.read_bytes())), 3)
+
     def test_new_feed_without_valid_snapshot_cannot_silently_fail(self):
         with tempfile.TemporaryDirectory() as directory, patch.object(feeds, "ROOT", Path(directory)):
             with self.assertRaises(ValueError):

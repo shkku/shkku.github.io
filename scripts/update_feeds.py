@@ -161,16 +161,17 @@ def update(source: dict, base_url: str, cache_dir: Path, keep_on_error: bool,
     cached = cache_dir / f"{feed_id}.xml"
     status_file = cache_dir / f"{feed_id}.json"
     previous = None
-    old_items = []
-    for candidate in (cached, output):
+    history: dict[str, Item] = {}
+    for candidate in (output, cached):
         if candidate.exists():
             try:
                 data = candidate.read_bytes()
-                old_items = read_items(data)
+                candidate_items = read_items(data)
+                history.update({item.url: item for item in candidate_items})
                 previous = data
-                break
             except (ValueError, ET.ParseError, TypeError):
                 print(f"Ignoring invalid previous feed: {candidate}", file=sys.stderr)
+    old_items = list(history.values())
     now = datetime.now(timezone.utc).replace(microsecond=0)
     status = {
         "id": feed_id, "title": source["title"],
@@ -199,7 +200,7 @@ def update(source: dict, base_url: str, cache_dir: Path, keep_on_error: bool,
         if status_file.exists():
             last_successful = json.loads(status_file.read_text()).get("last_successful")
         status.update(status="stale", last_successful=last_successful,
-                      items=len(old_items), error=str(error))
+                      items=len(read_items(previous)), error=str(error))
         print(f"::warning::{feed_id}: refresh failed; keeping previous feed: {error}", file=sys.stderr)
     # Commit outputs only after fetching and validating the entire listing.
     read_items(data)
