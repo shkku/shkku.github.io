@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Pattern articles and papers feed</title>
+    <title>Swarma articles and papers feed</title>
     <link>https://pattern.swarma.org/</link>
     <description>Unofficial feed of articles and curated Complexity and AI+Science papers from Swarma Pattern (集智斑图). Paper refreshes cover a rolling 90-day publication window; previously collected entries are retained. Links lead to original Pattern pages.</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 23 Oct 2026 10:59:50 GMT</lastBuildDate>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:09:26 GMT</lastBuildDate>
     <ttl>360</ttl>
     <generator>HomemadeRSS</generator>
+    <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
     <atom:link href="https://shkku.github.io/feeds/pattern-swarma.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A continuous confinement-deconfinement transition in a triangular quantum magnet</title>

@@ -4,7 +4,8 @@ This repository serves both the normal Hugo blog and independent RSS feeds throu
 
 - Feed directory: <https://shkku.github.io/feeds/>
 - Apollo Research: <https://shkku.github.io/feeds/apollo-science.xml>
-- Pattern articles and papers: <https://shkku.github.io/feeds/pattern-swarma.xml>
+- Swarma articles and papers: <https://shkku.github.io/feeds/pattern-swarma.xml>
+- Michael Levin publications: <https://shkku.github.io/feeds/michael-levin-publications.xml>
 - Blog: <https://shkku.github.io/blog/>
 - Blog RSS: <https://shkku.github.io/blog/index.xml>
 
@@ -42,7 +43,7 @@ GitHub may delay scheduled runs, and [automatically disables schedules in public
 3. Run the local commands below and inspect the resulting XML. Include a fixture and a test for the new source's structure.
 4. Commit the configuration, generated initial XML, generated catalog, and any scraper/test changes, then push to `main`. The new feed appears on `/feeds/` automatically at `/feeds/another-research-site.xml`.
 
-Keep ids and article URLs stable: readers identify entries by their original article URL. Refreshes merge new entries with existing ones, update their metadata, and retain older entries that disappear from the source listing. Identical polls keep the XML bytes and `lastBuildDate` unchanged. Feeds contain titles, original links, dates and categories, without copying article bodies.
+Keep feed ids and entry identities stable: most sources use their original article URL as the RSS GUID. Levin's bibliography uses a normalized year/title identity because publisher links can be missing or reused. Refreshes merge new entries with existing ones, update their metadata, and retain older entries that disappear from the source listing. Identical polls keep the XML bytes and `lastBuildDate` unchanged. Feeds contain titles, original links, available dates and categories, without copying article bodies.
 
 ## Local refresh and verification
 
@@ -75,6 +76,14 @@ Each refresh fetches the complete article listing and a rolling 90-day window of
 Article publication dates use `created_at`, with the API's naive timestamps interpreted as Asia/Shanghai (an explicit timezone assumption). Paper dates use `submitTime` at midnight UTC; these are original publication dates, not the time Pattern curated the paper. Edits preserve the same original URL as the RSS GUID.
 
 The collector calls the same public API paths referenced by the website's shipped JavaScript: `GET https://api.swarma.org/api/index/learn_paths?serious=0&...` and the read-only listing query `PUT https://api.swarma.org/api/express/top_issue` with date/category filters. Neither needs login credentials. Missing article pages, changed pagination totals, malformed dates or API errors preserve the prior complete feed during deployment rather than publishing only half of the combined source. Recorded fixtures retain only ids, titles, dates and pagination metadata.
+
+## Michael Levin scope
+
+`michael-levin-publications.xml` follows the main year-grouped bibliography on <https://www.drmichaellevin.org/publications/>, including its listed papers, chapters and books. The separate “Conferences, Abstracts, and Poster Sessions” section is excluded. Both ordinary paragraphs and entries with book/journal cover images are included.
+
+The page generally supplies publication years rather than full dates. The feed preserves those years as categories and **omits item publication dates**; RSS allows undated entries. No January 1 dates or scrape times are presented as publication dates. The real feed generation time remains in `lastBuildDate`.
+
+Entries link to the listed PDF/publisher/book URL, or to the bibliography's year anchor if no valid external link is provided (the source currently includes a malformed `hhttps:` link). GUIDs use a SHA-256 digest of the normalized year and title, so changing the publisher URL preserves the entry's identity. Repeated citations with the same normalized title/year are deduplicated (including a journal/book citation of the same 2008 work); distinct titles sharing a URL remain separate. A substantive title correction or changed publication year will create a new identity.
 
 ## Keep blogging
 

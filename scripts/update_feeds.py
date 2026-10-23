@@ -6,11 +6,13 @@ import argparse
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime, parsedate_to_datetime
+import hashlib
 import json
 from pathlib import Path
 import re
 import sys
 import time
+import unicodedata
 from urllib.error import HTTPError, URLError
 from urllib.parse import urldefrag, urljoin, urlsplit
 from urllib.request import Request, urlopen
@@ -30,16 +32,27 @@ USER_AGENT = "HomemadeRSS/1.0 (+https://shkku.github.io/feeds/)"
 class Item:
     title: str
     url: str
-    published: datetime
+    published: datetime | None
     categories: tuple[str, ...] = ()
+    guid: str | None = None
 
 
-def http_url(url: str) -> str:
-    url = urldefrag(url)[0]
+def http_url(url: str, *, keep_fragment=False) -> str:
+    url = url if keep_fragment else urldefrag(url)[0]
     parts = urlsplit(url)
     if parts.scheme not in ("http", "https") or not parts.netloc:
         raise ValueError(f"Not an HTTP(S) URL: {url}")
     return url
+
+
+def item_key(item: Item) -> str:
+    return item.guid or item.url
+
+
+def item_sort_key(item: Item):
+    # Year-only dates are used for ordering, never exported as precise dates.
+    year = next((int(c) for c in item.categories if re.fullmatch(r"\d{4}", c)), 1)
+    return item.published or datetime(year, 1, 1, tzinfo=timezone.utc), item_key(item)
 
 
 def fetch_document(url: str, media_type: str, method="GET", payload=None) -> str:
@@ -191,12 +204,66 @@ def collect_pattern(source: dict, request_json=fetch_json, now=None) -> list[Ite
     return sorted(items.values(), key=lambda i: (i.published, i.url), reverse=True)
 
 
+def collect_levin(source: dict, fetch_page=fetch) -> list[Item]:
+    soup = BeautifulSoup(fetch_page(source["source_url"]), "html.parser")
+    content = soup.select_one(".content")
+    if content is None or not content.find("h1", string="Peer-Reviewed Papers"):
+        raise ValueError("Levin bibliography container or heading is missing")
+    items: dict[str, Item] = {}
+    year = None
+    for node in content.children:
+        if getattr(node, "name", None) == "h2":
+            heading = node.get_text(strip=True)
+            if not re.fullmatch(r"\d{4}", heading):
+                if node.get("id") == "abstracts":
+                    break
+                raise ValueError(f"Unexpected Levin bibliography section: {heading}")
+            year = heading
+        if (not year or not getattr(node, "name", None)
+                or (node.name != "p" and "paperwithcover" not in node.get("class", []))):
+            continue
+        card = node.select_one(".paper") if "paperwithcover" in node.get("class", []) else node
+        if card is None:
+            raise ValueError("Levin cover entry has no bibliography text")
+        if not card.get_text(strip=True):
+            continue
+        title_node = card.select_one("strong, b") or card.select_one("u")
+        if title_node is None:
+            raise ValueError("Levin bibliography entry has no marked title")
+        title = " ".join(title_node.get_text(" ", strip=True).split())
+        if not title:
+            raise ValueError("Empty Levin publication title")
+        links = card.select("a[href]")
+        preferred = next((a for a in links if a.get_text(strip=True).casefold() == "pdf"), None)
+        candidates = ([preferred] if preferred is not None else []) + links
+        url = f"{source['source_url']}#{year}"
+        for link in candidates:
+            try:
+                url = http_url(urljoin(source["source_url"], link["href"]), keep_fragment=True)
+                break
+            except ValueError:
+                # The live page contains malformed publisher URLs (e.g. hhttps:).
+                continue
+        # Some different citations share a publisher URL; identity must not rely on that URL.
+        identity = unicodedata.normalize("NFC", f"{year}\n{title.casefold()}")
+        guid = "urn:levin-publication:" + hashlib.sha256(identity.encode()).hexdigest()
+        item = Item(title, url, None, ("Publication", year), guid)
+        if guid in items and items[guid] != item:
+            raise ValueError(f"Conflicting Levin publication: {title}")
+        items[guid] = item
+    if not items:
+        raise ValueError("No Levin publications found")
+    return sorted(items.values(), key=item_sort_key, reverse=True)
+
+
 def collect(source: dict, fetch_page=None) -> list[Item]:
     kind = source.get("kind", "html_listing")
     if kind == "html_listing":
         return collect_html(source, fetch_page or fetch)
     if kind == "pattern":
         return collect_pattern(source, fetch_page or fetch_json)
+    if kind == "levin_publications":
+        return collect_levin(source, fetch_page or fetch)
     raise ValueError(f"Unknown feed source kind: {kind}")
 
 
@@ -205,12 +272,13 @@ def read_items(data: bytes) -> list[Item]:
     if root.tag != "rss" or root.get("version") != "2.0":
         raise ValueError("Expected RSS 2.0")
     items = [Item(
-        node.findtext("title") or "", http_url(node.findtext("link") or ""),
-        parsedate_to_datetime(node.findtext("pubDate") or ""),
+        node.findtext("title") or "", http_url(node.findtext("link") or "", keep_fragment=True),
+        parsedate_to_datetime(node.findtext("pubDate")) if node.findtext("pubDate") else None,
         tuple(tag.text or "" for tag in node.findall("category")),
+        node.findtext("guid") if node.findtext("guid") != node.findtext("link") else None,
     ) for node in root.findall("./channel/item")]
-    if not items or any(not i.title or i.published.tzinfo is None for i in items):
-        raise ValueError("Feed has no valid dated items")
+    if not items or any(not i.title or (i.published is not None and i.published.tzinfo is None) for i in items):
+        raise ValueError("Feed has no valid items")
     return items
 
 
@@ -221,10 +289,12 @@ def render(source: dict, items: list[Item], base_url: str, now: datetime) -> byt
         "title": source["title"], "link": source["source_url"],
         "description": source["description"], "language": source.get("language", "en"),
         "lastBuildDate": format_datetime(now, usegmt=True),
-        "pubDate": format_datetime(max(i.published for i in items), usegmt=True),
         "ttl": "360", "generator": "HomemadeRSS",
     }.items():
         ET.SubElement(channel, key).text = value
+    dated = [i.published for i in items if i.published is not None]
+    if dated:
+        ET.SubElement(channel, "pubDate").text = format_datetime(max(dated), usegmt=True)
     ET.SubElement(channel, f"{{{ATOM}}}link", {
         "href": f"{base_url.rstrip('/')}/feeds/{source['id']}.xml",
         "rel": "self", "type": "application/rss+xml",
@@ -233,8 +303,9 @@ def render(source: dict, items: list[Item], base_url: str, now: datetime) -> byt
         node = ET.SubElement(channel, "item")
         ET.SubElement(node, "title").text = item.title
         ET.SubElement(node, "link").text = item.url
-        ET.SubElement(node, "guid", isPermaLink="true").text = item.url
-        ET.SubElement(node, "pubDate").text = format_datetime(item.published, usegmt=True)
+        ET.SubElement(node, "guid", isPermaLink="false" if item.guid else "true").text = item_key(item)
+        if item.published is not None:
+            ET.SubElement(node, "pubDate").text = format_datetime(item.published, usegmt=True)
         for category in item.categories:
             ET.SubElement(node, "category").text = category
     ET.indent(root, space="  ")
@@ -263,7 +334,7 @@ def update(source: dict, base_url: str, cache_dir: Path, keep_on_error: bool,
             try:
                 data = candidate.read_bytes()
                 candidate_items = read_items(data)
-                history.update({item.url: item for item in candidate_items})
+                history.update({item_key(item): item for item in candidate_items})
                 previous = data
             except (ValueError, ET.ParseError, TypeError):
                 print(f"Ignoring invalid previous feed: {candidate}", file=sys.stderr)
@@ -276,9 +347,9 @@ def update(source: dict, base_url: str, cache_dir: Path, keep_on_error: bool,
     }
     try:
         incoming = collect(source, fetch_page)
-        merged = {item.url: item for item in old_items}
-        merged.update({item.url: item for item in incoming})
-        items = sorted(merged.values(), key=lambda i: (i.published, i.url), reverse=True)
+        merged = {item_key(item): item for item in old_items}
+        merged.update({item_key(item): item for item in incoming})
+        items = sorted(merged.values(), key=item_sort_key, reverse=True)
         data = render(source, items, base_url, now)
         # No artificial feed update when only the polling time changed.
         if previous is not None:

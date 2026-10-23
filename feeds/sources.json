@@ -17,11 +17,18 @@
   {
     "id": "pattern-swarma",
     "kind": "pattern",
-    "title": "Pattern articles and papers feed",
+    "title": "Swarma articles and papers feed",
     "description": "Unofficial feed of articles and curated Complexity and AI+Science papers from Swarma Pattern (集智斑图). Paper refreshes cover a rolling 90-day publication window; previously collected entries are retained. Links lead to original Pattern pages.",
     "source_url": "https://pattern.swarma.org/",
     "language": "zh-CN",
     "articles_page_size": 50,
     "papers_lookback_days": 90
+  },
+  {
+    "id": "michael-levin-publications",
+    "kind": "levin_publications",
+    "title": "Michael Levin papers feed",
+    "description": "Unofficial feed of the main bibliography on the Levin Lab Peer-Reviewed Papers page, including its listed papers, chapters and books. Conference abstracts and posters are excluded. Publication years are preserved as categories; exact publication dates are omitted because the page supplies only years.",
+    "source_url": "https://www.drmichaellevin.org/publications/"
   }
 ]

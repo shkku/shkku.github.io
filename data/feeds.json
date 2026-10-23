@@ -5,20 +5,31 @@
     "source_url": "https://www.apolloresearch.ai/science",
     "description": "Unofficial feed of Apollo Research's All research listing, including the research agenda. Separate system-card panels and the general blog are excluded. Titles, dates and links belong to Apollo Research.",
     "url": "/feeds/apollo-science.xml",
-    "last_checked": "2026-10-23T10:59:49+00:00",
+    "last_checked": "2026-10-23T11:09:25+00:00",
     "status": "ok",
-    "last_successful": "2026-10-23T10:59:49+00:00",
+    "last_successful": "2026-10-23T11:09:25+00:00",
     "items": 26
   },
   {
     "id": "pattern-swarma",
-    "title": "Pattern articles and papers feed",
+    "title": "Swarma articles and papers feed",
     "source_url": "https://pattern.swarma.org/",
     "description": "Unofficial feed of articles and curated Complexity and AI+Science papers from Swarma Pattern (集智斑图). Paper refreshes cover a rolling 90-day publication window; previously collected entries are retained. Links lead to original Pattern pages.",
     "url": "/feeds/pattern-swarma.xml",
-    "last_checked": "2026-10-23T10:59:50+00:00",
+    "last_checked": "2026-10-23T11:09:26+00:00",
     "status": "ok",
-    "last_successful": "2026-10-23T10:59:50+00:00",
+    "last_successful": "2026-10-23T11:09:26+00:00",
     "items": 426
+  },
+  {
+    "id": "michael-levin-publications",
+    "title": "Michael Levin papers feed",
+    "source_url": "https://www.drmichaellevin.org/publications/",
+    "description": "Unofficial feed of the main bibliography on the Levin Lab Peer-Reviewed Papers page, including its listed papers, chapters and books. Conference abstracts and posters are excluded. Publication years are preserved as categories; exact publication dates are omitted because the page supplies only years.",
+    "url": "/feeds/michael-levin-publications.xml",
+    "last_checked": "2026-10-23T11:11:57+00:00",
+    "status": "ok",
+    "last_successful": "2026-10-23T11:11:57+00:00",
+    "items": 520
   }
 ]
