@@ -28,7 +28,7 @@
     "id": "michael-levin-publications",
     "kind": "levin_publications",
     "title": "Michael Levin papers feed",
-    "description": "Unofficial feed of the main bibliography on the Levin Lab Peer-Reviewed Papers page, including its listed papers, chapters and books. Conference abstracts and posters are excluded. Publication years are preserved as categories; exact publication dates are omitted because the page supplies only years.",
+    "description": "Unofficial feed of the main bibliography on the Levin Lab Peer-Reviewed Papers page, including its listed papers, chapters and books. Conference abstracts and posters are excluded. RSS dates use January 1 of each publication year as sorting placeholders; exact publication dates are unknown.",
     "source_url": "https://www.drmichaellevin.org/publications/"
   }
 ]

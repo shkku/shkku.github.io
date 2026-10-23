@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 import argparse
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime, parsedate_to_datetime
 import hashlib
@@ -50,7 +50,7 @@ def item_key(item: Item) -> str:
 
 
 def item_sort_key(item: Item):
-    # Year-only dates are used for ordering, never exported as precise dates.
+    # Undated archived entries can still be ordered by their year category.
     year = next((int(c) for c in item.categories if re.fullmatch(r"\d{4}", c)), 1)
     return item.published or datetime(year, 1, 1, tzinfo=timezone.utc), item_key(item)
 
@@ -247,7 +247,10 @@ def collect_levin(source: dict, fetch_page=fetch) -> list[Item]:
         # Some different citations share a publisher URL; identity must not rely on that URL.
         identity = unicodedata.normalize("NFC", f"{year}\n{title.casefold()}")
         guid = "urn:levin-publication:" + hashlib.sha256(identity.encode()).hexdigest()
-        item = Item(title, url, None, ("Publication", year), guid)
+        # RSS readers commonly sort by pubDate, rather than XML item order.
+        # January 1 represents the known year; render() discloses its precision.
+        published = datetime(int(year), 1, 1, tzinfo=timezone.utc)
+        item = Item(title, url, published, ("Publication", year), guid)
         if guid in items and items[guid] != item:
             raise ValueError(f"Conflicting Levin publication: {title}")
         items[guid] = item
@@ -283,6 +286,12 @@ def read_items(data: bytes) -> list[Item]:
 
 
 def render(source: dict, items: list[Item], base_url: str, now: datetime) -> bytes:
+    if source.get("kind") == "levin_publications":
+        # Migrate retained entries from the earlier undated feed as well.
+        items = [replace(item, published=datetime(
+            int(next(c for c in item.categories if re.fullmatch(r"\d{4}", c))),
+            1, 1, tzinfo=timezone.utc,
+        )) for item in items]
     root = ET.Element("rss", version="2.0")
     channel = ET.SubElement(root, "channel")
     for key, value in {
@@ -306,6 +315,11 @@ def render(source: dict, items: list[Item], base_url: str, now: datetime) -> byt
         ET.SubElement(node, "guid", isPermaLink="false" if item.guid else "true").text = item_key(item)
         if item.published is not None:
             ET.SubElement(node, "pubDate").text = format_datetime(item.published, usegmt=True)
+        if source.get("kind") == "levin_publications":
+            ET.SubElement(node, "description").text = (
+                f"Publication year: {item.published.year}. "
+                "January 1 is a sorting placeholder; the source does not supply an exact publication date."
+            )
         for category in item.categories:
             ET.SubElement(node, "category").text = category
     ET.indent(root, space="  ")
