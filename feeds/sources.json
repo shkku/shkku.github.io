@@ -30,5 +30,14 @@
     "title": "Michael Levin papers feed",
     "description": "Unofficial feed of the main bibliography on the Levin Lab Peer-Reviewed Papers page, including its listed papers, chapters and books. Conference abstracts and posters are excluded. RSS dates use January 1 of each publication year as sorting placeholders; exact publication dates are unknown.",
     "source_url": "https://www.drmichaellevin.org/publications/"
+  },
+  {
+    "id": "david-krakauer-papers",
+    "kind": "rss",
+    "title": "David Krakauer papers feed",
+    "description": "Unofficial hosted feed of David C. Krakauer's papers, sourced from his publisher-provided papers-category RSS. Uses the publisher's posting dates and identifiers. The source exposes its 20 latest entries; collected papers are retained as new ones arrive.",
+    "source_url": "https://davidckrakauer.com/papers",
+    "rss_url": "https://davidckrakauer.com/artifacts/category/papers?format=rss",
+    "required_category": "papers"
   }
 ]

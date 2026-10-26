@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Artifacts - DAVID C. KRAKAUER</title>
+    <link>https://davidckrakauer.com/artifacts/</link>
+    <description>Structural RSS excerpt retrieved 2026-10-26.</description>
+    <item>
+      <title>2026 Competitive and Complementary Tools </title>
+      <category>papers</category>
+      <pubDate>Wed, 22 Jul 2026 20:26:00 +0000</pubDate>
+      <link>https://davidckrakauer.com/artifacts/2026-competitive-and-complementary-tools</link>
+      <guid isPermaLink="false">5f29a430a2b6a34680879cc0:5f4ef541f4f8f06edd858d64:6a612759eca85953db8c790a</guid>
+    </item>
+    <item>
+      <title>2026 What Is Intelligence? With David Krakauer</title>
+      <category>AV Media</category>
+      <category>podcasts</category>
+      <category>interviews</category>
+      <pubDate>Sat, 03 Oct 2026 19:12:34 +0000</pubDate>
+      <link>https://davidckrakauer.com/artifacts/2026what-is-intelligence-with-david-krakauer</link>
+      <guid isPermaLink="false">5f29a430a2b6a34680879cc0:5f4ef541f4f8f06edd858d64:6ac153a2be82eb67647b5502</guid>
+    </item>
+    <item>
+      <title>2026 Large-Language Models as a Cognitive Virus</title>
+      <category>papers</category>
+      <pubDate>Fri, 04 Sep 2026 17:24:05 +0000</pubDate>
+      <link>https://davidckrakauer.com/artifacts/2026large-language-models-as-a-cognitive-virus</link>
+      <guid isPermaLink="false">5f29a430a2b6a34680879cc0:5f4ef541f4f8f06edd858d64:6a9afeb55ae4be43c9681895</guid>
+    </item>
+  </channel>
+</rss>

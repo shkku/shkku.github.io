@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>David Krakauer papers feed</title>
+    <link>https://davidckrakauer.com/papers</link>
+    <description>Unofficial hosted feed of David C. Krakauer's papers, sourced from his publisher-provided papers-category RSS. Uses the publisher's posting dates and identifiers. The source exposes its 20 latest entries; collected papers are retained as new ones arrive.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 26 Oct 2026 14:39:42 GMT</lastBuildDate>
+    <ttl>360</ttl>
+    <generator>HomemadeRSS</generator>
+    <pubDate>Fri, 04 Sep 2026 17:24:05 GMT</pubDate>
+    <atom:link href="https://shkku.github.io/feeds/david-krakauer-papers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 Large-Language Models as a Cognitive Virus</title>
+      <link>https://davidckrakauer.com/artifacts/2026large-language-models-as-a-cognitive-virus</link>
+      <guid isPermaLink="false">5f29a430a2b6a34680879cc0:5f4ef541f4f8f06edd858d64:6a9afeb55ae4be43c9681895</guid>
+      <pubDate>Fri, 04 Sep 2026 17:24:05 GMT</pubDate>
+      <category>papers</category>
+    </item>
+    <item>
+      <title>2026 Competitive and Complementary Tools </title>
+      <link>https://davidckrakauer.com/artifacts/2026-competitive-and-complementary-tools</link>
+      <guid isPermaLink="false">5f29a430a2b6a34680879cc0:5f4ef541f4f8f06edd858d64:6a612759eca85953db8c790a</guid>
+      <pubDate>Wed, 22 Jul 2026 20:26:00 GMT</pubDate>
+      <category>papers</category>
+    </item>
+    <item>
+      <title>2026 World Models and the Hard Problems of Life-Mind Continuity: Toward a Unified Understanding of Natural and Artificial Intelligence </title>
+      <link>https://davidckrakauer.com/artifacts/2026-world-models-and-the-hard-problems-of-life-mind-continuity-toward-a-unified-understanding-of-natural-and-artificial-intelligence</link>
+      <guid isPermaLink="false">5f29a430a2b6a34680879cc0:5f4ef541f4f8f06edd858d64:6a0637e1f0769240ab088681</guid>
+      <pubDate>Thu, 14 May 2026 21:00:17 GMT</pubDate>
+      <category>papers</category>
+    </item>
+    <item>
+      <title>2026 Large Language Models and Emergence: A Complex Systems Perspective</title>
+      <link>https://davidckrakauer.com/artifacts/2025-large-language-models-and-emergence-a-complex-systems-perspective</link>
+      <guid isPermaLink="false">5f29a430a2b6a34680879cc0:5f4ef541f4f8f06edd858d64:68a605b39e5d6e1f5ca58c76</guid>
+      <pubDate>Thu, 14 May 2026 17:28:19 GMT</pubDate>
+      <category>papers</category>
+    </item>
+    <item>
+      <title>2026 The Rise and Fall of G in AGI</title>
+      <link>https://davidckrakauer.com/artifacts/2026-the-rise-and-fall-of-g-in-agi</link>
+      <guid isPermaLink="false">5f29a430a2b6a34680879cc0:5f4ef541f4f8f06edd858d64:69e676e97003097a5cbb66c4</guid>
+      <pubDate>Mon, 20 Apr 2026 18:56:41 GMT</pubDate>
+      <category>papers</category>
+    </item>
+    <item>
+      <title>2025 Universality in Collective Intelligence on the Rubik's Cube</title>
+      <link>https://davidckrakauer.com/artifacts/2025-universality-in-collective-intelligence-on-the-rubiks-cube</link>
+      <guid isPermaLink="false">5f29a430a2b6a34680879cc0:5f4ef541f4f8f06edd858d64:6925db7abfe7fa7fc5ce1a3f</guid>
+      <pubDate>Tue, 25 Nov 2025 16:38:18 GMT</pubDate>
+      <category>papers</category>
+    </item>
+    <item>
+      <title>2025 Physical Complexity of a Cognitive Artifact</title>
+      <link>https://davidckrakauer.com/artifacts/2025-physical-complexity-of-a-cognitive-artifact</link>
+      <guid isPermaLink="false">5f29a430a2b6a34680879cc0:5f4ef541f4f8f06edd858d64:68cc6ecead982a0b41418d93</guid>
+      <pubDate>Thu, 18 Sep 2025 20:42:54 GMT</pubDate>
+      <category>papers</category>
+    </item>
+    <item>
+      <title>2024 Exbodiment: The Mind Made Matter</title>
+      <link>https://davidckrakauer.com/artifacts/2024-exbodiment-the-mind-made-matter</link>
+      <guid isPermaLink="false">5f29a430a2b6a34680879cc0:5f4ef541f4f8f06edd858d64:6761bb2bb10438480bcfd7ff</guid>
+      <pubDate>Tue, 17 Dec 2024 17:55:55 GMT</pubDate>
+      <category>papers</category>
+    </item>
+    <item>
+      <title>2024  Constructing Stability: Optimal Learning in Noisy Ecological Niches</title>
+      <link>https://davidckrakauer.com/artifacts/2024-constructing-stability-optimal-learning-in-noisy-ecological-niches</link>
+      <guid isPermaLink="false">5f29a430a2b6a34680879cc0:5f4ef541f4f8f06edd858d64:67242a1772173f43e2ff7376</guid>
+      <pubDate>Fri, 01 Nov 2024 01:08:39 GMT</pubDate>
+      <category>papers</category>
+    </item>
+    <item>
+      <title>2023 Unifying Complexity Science and Machine Learning</title>
+      <link>https://davidckrakauer.com/artifacts/2023-unifying-complexity-science-and-machine-learning</link>
+      <guid isPermaLink="false">5f29a430a2b6a34680879cc0:5f4ef541f4f8f06edd858d64:6547b32269af731e25eda5f4</guid>
+      <pubDate>Wed, 18 Oct 2023 14:24:00 GMT</pubDate>
+      <category>papers</category>
+    </item>
+    <item>
+      <title>2023 Symmetry–Simplicity, Broken Symmetry–Complexity</title>
+      <link>https://davidckrakauer.com/artifacts/2023-symmetrysimplicity-broken-symmetrycomplexity</link>
+      <guid isPermaLink="false">5f29a430a2b6a34680879cc0:5f4ef541f4f8f06edd858d64:6446fa6dcc93cd45e54bb1b8</guid>
+      <pubDate>Tue, 06 Jun 2023 21:53:00 GMT</pubDate>
+      <category>papers</category>
+    </item>
+    <item>
+      <title>2023 The Debate over Understanding in AI’s Large Language Models</title>
+      <link>https://davidckrakauer.com/artifacts/2022-the-debate-over-understanding-in-ais-large-language-models</link>
+      <guid isPermaLink="false">5f29a430a2b6a34680879cc0:5f4ef541f4f8f06edd858d64:635ddd507272f54fa90eb649</guid>
+      <pubDate>Wed, 22 Mar 2023 02:11:00 GMT</pubDate>
+      <category>papers</category>
+    </item>
+    <item>
+      <title>2022 Bacterial Strategies for Damage Management</title>
+      <link>https://davidckrakauer.com/artifacts/2022-bacterial-strategies-for-damage-management</link>
+      <guid isPermaLink="false">5f29a430a2b6a34680879cc0:5f4ef541f4f8f06edd858d64:635de81c7919aa0f173ce042</guid>
+      <pubDate>Tue, 04 Oct 2022 02:57:00 GMT</pubDate>
+      <category>papers</category>
+    </item>
+    <item>
+      <title>2022 Benefits of Noise in Collective Systems: The Four-Fold Way (an Exchange of Letters)</title>
+      <link>https://davidckrakauer.com/artifacts/2022-benefits-of-noise-in-collective-systems-the-four-fold-way-an-exchange-of-letters</link>
+      <guid isPermaLink="false">5f29a430a2b6a34680879cc0:5f4ef541f4f8f06edd858d64:6358a2b452d90a16d7142f1b</guid>
+      <pubDate>Fri, 16 Sep 2022 03:00:00 GMT</pubDate>
+      <category>papers</category>
+    </item>
+    <item>
+      <title>2022 Outsourcing Memory Through Niche Construction</title>
+      <link>https://davidckrakauer.com/artifacts/2022-outsourcing-memory-through-niche-construction</link>
+      <guid isPermaLink="false">5f29a430a2b6a34680879cc0:5f4ef541f4f8f06edd858d64:6352f38abb39b34e41eaf7c5</guid>
+      <pubDate>Thu, 01 Sep 2022 19:31:00 GMT</pubDate>
+      <category>papers</category>
+    </item>
+    <item>
+      <title>2022 Institutional Dynamics and  Learning Networks</title>
+      <link>https://davidckrakauer.com/artifacts/2022-institutional-dynamics-and-learning-networks</link>
+      <guid isPermaLink="false">5f29a430a2b6a34680879cc0:5f4ef541f4f8f06edd858d64:6358a5b95d47697146ebe7ba</guid>
+      <pubDate>Tue, 17 May 2022 03:12:00 GMT</pubDate>
+      <category>papers</category>
+    </item>
+    <item>
+      <title>2021 Simulation Intelligence: Towards a New Generation of Scientific Methods</title>
+      <link>https://davidckrakauer.com/artifacts/2021-simulation-intelligence-towards-a-new-generation-of-scientific-methods</link>
+      <guid isPermaLink="false">5f29a430a2b6a34680879cc0:5f4ef541f4f8f06edd858d64:61b159870f1b4907c1fbf660</guid>
+      <pubDate>Tue, 07 Dec 2021 01:19:00 GMT</pubDate>
+      <category>papers</category>
+    </item>
+    <item>
+      <title>2021 The Multiple Paths to Multiple Life</title>
+      <link>https://davidckrakauer.com/artifacts/2021-the-multiple-paths-to-multiple-life</link>
+      <guid isPermaLink="false">5f29a430a2b6a34680879cc0:5f4ef541f4f8f06edd858d64:611bd44627cdd535ed3bb226</guid>
+      <pubDate>Mon, 12 Jul 2021 15:22:00 GMT</pubDate>
+      <category>papers</category>
+    </item>
+    <item>
+      <title>2020 Scaling theory of armed-conflict avalanches</title>
+      <link>https://davidckrakauer.com/artifacts/dvr2388az933043j8jxzxkqvnsec1t</link>
+      <guid isPermaLink="false">5f29a430a2b6a34680879cc0:5f4ef541f4f8f06edd858d64:5f9a29ed325d596dd6ca0036</guid>
+      <pubDate>Thu, 29 Oct 2020 02:33:16 GMT</pubDate>
+      <category>papers</category>
+    </item>
+    <item>
+      <title>2020 Collective Computation in Animal Fission-Fusion Dynamics</title>
+      <link>https://davidckrakauer.com/artifacts/0411fup2jc4bs45heeiewfrp399usm</link>
+      <guid isPermaLink="false">5f29a430a2b6a34680879cc0:5f4ef541f4f8f06edd858d64:5f83836651299276ce3c68aa</guid>
+      <pubDate>Tue, 21 Jul 2020 22:12:00 GMT</pubDate>
+      <category>papers</category>
+    </item>
+  </channel>
+</rss>

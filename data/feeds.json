@@ -31,5 +31,16 @@
     "status": "ok",
     "last_successful": "2026-10-23T11:21:32+00:00",
     "items": 520
+  },
+  {
+    "id": "david-krakauer-papers",
+    "title": "David Krakauer papers feed",
+    "source_url": "https://davidckrakauer.com/papers",
+    "description": "Unofficial hosted feed of David C. Krakauer's papers, sourced from his publisher-provided papers-category RSS. Uses the publisher's posting dates and identifiers. The source exposes its 20 latest entries; collected papers are retained as new ones arrive.",
+    "url": "/feeds/david-krakauer-papers.xml",
+    "last_checked": "2026-10-26T14:39:42+00:00",
+    "status": "ok",
+    "last_successful": "2026-10-26T14:39:42+00:00",
+    "items": 20
   }
 ]

@@ -65,7 +65,8 @@ def fetch_document(url: str, media_type: str, method="GET", payload=None) -> str
                 body = json.dumps(payload).encode("utf-8")
             request = Request(http_url(url), data=body, headers=headers, method=method)
             with urlopen(request, timeout=30) as response:
-                if media_type not in response.headers.get("Content-Type", ""):
+                if not any(t.strip() in response.headers.get("Content-Type", "")
+                           for t in media_type.split(",")):
                     raise ValueError(f"Expected {media_type} from {url}")
                 return response.read().decode("utf-8")
         except (HTTPError, URLError, TimeoutError):
@@ -81,6 +82,27 @@ def fetch(url: str) -> str:
 
 def fetch_json(url: str, method="GET", payload=None):
     return json.loads(fetch_document(url, "application/json", method, payload))
+
+
+def fetch_rss(url: str) -> str:
+    return fetch_document(url, "application/rss+xml, application/xml, text/xml")
+
+
+def collect_rss(source: dict, fetch_page=fetch_rss) -> list[Item]:
+    items = read_items(fetch_page(source["rss_url"]))
+    category = source.get("required_category")
+    if category:
+        items = [item for item in items if category.casefold() in
+                 {c.strip().casefold() for c in item.categories}]
+    if not items or any(item.published is None for item in items):
+        raise ValueError("Publisher RSS has no complete dated entries in the requested category")
+    unique: dict[str, Item] = {}
+    for item in items:
+        key = item_key(item)
+        if key in unique and unique[key] != item:
+            raise ValueError(f"Conflicting publisher RSS identity: {key}")
+        unique[key] = item
+    return sorted(unique.values(), key=item_sort_key, reverse=True)
 
 
 def collect_html(source: dict, fetch_page=fetch) -> list[Item]:
@@ -267,6 +289,8 @@ def collect(source: dict, fetch_page=None) -> list[Item]:
         return collect_pattern(source, fetch_page or fetch_json)
     if kind == "levin_publications":
         return collect_levin(source, fetch_page or fetch)
+    if kind == "rss":
+        return collect_rss(source, fetch_page or fetch_rss)
     raise ValueError(f"Unknown feed source kind: {kind}")
 
 

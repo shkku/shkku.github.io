@@ -6,6 +6,7 @@ This repository serves both the normal Hugo blog and independent RSS feeds throu
 - Apollo Research: <https://shkku.github.io/feeds/apollo-science.xml>
 - Swarma articles and papers: <https://shkku.github.io/feeds/pattern-swarma.xml>
 - Michael Levin publications: <https://shkku.github.io/feeds/michael-levin-publications.xml>
+- David Krakauer papers: <https://shkku.github.io/feeds/david-krakauer-papers.xml>
 - Blog: <https://shkku.github.io/blog/>
 - Blog RSS: <https://shkku.github.io/blog/index.xml>
 
@@ -19,7 +20,7 @@ GitHub may delay scheduled runs, and [automatically disables schedules in public
 
 ## Add another feed
 
-1. Inspect the source's HTML. The included scraper supports server-rendered HTML lists, CSS selectors and optional next-page links. JavaScript-only pages, APIs, authentication and unusual dates need an additional scraper implementation. Pattern already has a dedicated public-API collector selected with `kind: pattern`.
+1. Inspect the source's HTML. The included scraper supports server-rendered HTML lists, CSS selectors and optional next-page links. JavaScript-only pages, APIs, authentication and unusual dates need an additional scraper implementation. Pattern already has a dedicated public-API collector selected with `kind: pattern`. Existing publisher RSS 2.0 feeds can use `kind: rss`, `rss_url`, and optionally `required_category`.
 2. Append an object to `feeds/sources.json`, using a unique lowercase hyphenated `id`:
 
    ```json
@@ -84,6 +85,12 @@ The collector calls the same public API paths referenced by the website's shippe
 The page generally supplies publication years rather than full dates. The feed preserves those years as categories and uses **January 1 of each year as an explicit sorting placeholder** in RSS `pubDate`. The channel and each item explain that these are not exact publication dates. This lets readers sort newest years first; omitting dates caused some readers to import the archive in reverse order. Ordering within the same year does not imply a known publication sequence. Existing GUIDs stay unchanged. The real feed generation time remains in `lastBuildDate`.
 
 Entries link to the listed PDF/publisher/book URL, or to the bibliography's year anchor if no valid external link is provided (the source currently includes a malformed `hhttps:` link). GUIDs use a SHA-256 digest of the normalized year and title, so changing the publisher URL preserves the entry's identity. Repeated citations with the same normalized title/year are deduplicated (including a journal/book citation of the same 2008 work); distinct titles sharing a URL remain separate. A substantive title correction or changed publication year will create a new identity.
+
+## David Krakauer scope
+
+`david-krakauer-papers.xml` follows the papers category on <https://davidckrakauer.com/papers> through the publisher's native RSS endpoint: <https://davidckrakauer.com/artifacts/category/papers?format=rss>. The generic `/artifacts` feed also includes interviews and essays; the hosted feed validates the `papers` category to keep those out.
+
+The native feed exposes its latest 20 entries (the HTML papers page currently shows 30). The initial hosted feed therefore has 20 recent papers. Scheduled refreshes retain collected entries as they fall out of that native window, subject to the shared cache/snapshot retention limits above. The source's original RSS identifiers and posting dates are preserved, and entries are sorted newest first. These posting dates are the website's dates, not independently verified journal publication dates. The six-hour polling and last-successful fallback are shared with the other feeds.
 
 ## Keep blogging
 
